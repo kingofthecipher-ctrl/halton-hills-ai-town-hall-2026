@@ -1,0 +1,13 @@
+name: Verify the published record
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Check scores, evidence and published hashes
+        run: python3 verify.py

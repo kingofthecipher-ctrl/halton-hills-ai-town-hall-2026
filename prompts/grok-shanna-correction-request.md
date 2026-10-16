@@ -1,0 +1,3 @@
+Paste this into the same Grok chat:
+
+> In your Shanna Maltby assessment, criterion 2 (Future reasoning) used level 3.5. Our rubric requires integer levels 0–4. Choose level 3 or 4 based on your original evidence and the rubric anchors; do not automatically round or aim for a particular total. Keep the other five criterion scores unchanged unless you identify and explain a separate error. Recalculate criterion 2 and the total, then show the corrected row and a brief reason for your chosen level. Label this a rubric correction and retain your original assessment for comparison. Jason Brass’s criterion 2 has the same half-level issue; correct that entry on the same basis and return the updated seven-person summary table. Do not use another reviewer’s scores.

@@ -1,0 +1,12 @@
+work/
+.venv*/
+__pycache__/
+.DS_Store
+*.mp4
+*.wav
+*.pt
+*.pth
+*.hash
+*.render-hash
+production/ai-town-hall-*
+production/*generated.json

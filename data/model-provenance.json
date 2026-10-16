@@ -1,0 +1,56 @@
+[
+  {
+    "key": "sol",
+    "display_label": "Sol 6.1",
+    "recorded_model": "gpt-6.1-sol",
+    "date": "2026-10-15",
+    "collection": "Fresh agent explicitly dispatched with original prompt and seven screenshots; other scores excluded.",
+    "raw_review": "reviews/sol.md",
+    "raw_review_sha256": "67af919eda117be08ba216d2531842ff9fdeb0e71a19df267a32ba58306523a7"
+  },
+  {
+    "key": "astra",
+    "display_label": "Astra",
+    "recorded_model": "gpt-6-astra",
+    "date": "2026-10-15",
+    "collection": "Fresh agent explicitly dispatched with original prompt and seven screenshots; other scores excluded.",
+    "raw_review": "reviews/astra.md",
+    "raw_review_sha256": "6f0c4a293c2c17c759242d458f9224c91ff355ecfa9027741d1cfcdcf0896606"
+  },
+  {
+    "key": "sonnet",
+    "display_label": "Sonnet 5.5",
+    "recorded_model": "Claude Sonnet 5.5 (user-reported app label)",
+    "date": "2026-10-15",
+    "collection": "User-supplied review text from a separate app/chat; identity and setup are user/submission-attributed.",
+    "raw_review": "reviews/sonnet.md",
+    "raw_review_sha256": "6c3ecd60b30b401703ef1d2208ecdfc45e1631e0af29e995f528a5bb3a8b3829"
+  },
+  {
+    "key": "opus",
+    "display_label": "Opus 5.5",
+    "recorded_model": "Claude Opus 5.5 (user-reported app label)",
+    "date": "2026-10-15",
+    "collection": "User-supplied review text from a separate app/chat; identity and setup are user/submission-attributed.",
+    "raw_review": "reviews/opus.md",
+    "raw_review_sha256": "7ae1245213893257e2d51ff08371b335615700990b62c92ace1d8e03e0a684dd"
+  },
+  {
+    "key": "grok",
+    "display_label": "Grok",
+    "recorded_model": "User-provided Grok review; model version/mode not supplied",
+    "date": "2026-10-15",
+    "collection": "User-supplied review text from a separate app/chat; identity and setup are user/submission-attributed.",
+    "raw_review": "reviews/grok.md",
+    "raw_review_sha256": "342e49e3788ef00e181d469b1289c6082cee049cf12595642fd6a80c1abfc26e"
+  },
+  {
+    "key": "gemini",
+    "display_label": "Gemini 2.5 Flash",
+    "recorded_model": "Gemini 2.5 Flash / Standard Mode (submission label; not independently verified)",
+    "date": "2026-10-15",
+    "collection": "User-supplied review text from a separate app/chat; identity and setup are user/submission-attributed.",
+    "raw_review": "reviews/gemini.md",
+    "raw_review_sha256": "5deb7a8b7d10cb8e22ccba4719082738885488b6bd830eda79c15cab5a9384d4"
+  }
+]

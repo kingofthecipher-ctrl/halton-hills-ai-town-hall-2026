@@ -1,0 +1,253 @@
+reviewer,candidate,criterion,weight,level,weighted_points
+Sol 6.1,Shanna Maltby,Answers your questions,20,4,20.0
+Sol 6.1,Shanna Maltby,Future reasoning,20,3,15.0
+Sol 6.1,Shanna Maltby,Demonstrated preparedness,15,3,11.25
+Sol 6.1,Shanna Maltby,Local action & accountability,15,4,15.0
+Sol 6.1,Shanna Maltby,Jobs & public funding,20,3,15.0
+Sol 6.1,Shanna Maltby,Blind spots & safeguards,10,4,10.0
+Sol 6.1,Kevin Carruthers,Answers your questions,20,3,15.0
+Sol 6.1,Kevin Carruthers,Future reasoning,20,2,10.0
+Sol 6.1,Kevin Carruthers,Demonstrated preparedness,15,2,7.5
+Sol 6.1,Kevin Carruthers,Local action & accountability,15,1,3.75
+Sol 6.1,Kevin Carruthers,Jobs & public funding,20,2,10.0
+Sol 6.1,Kevin Carruthers,Blind spots & safeguards,10,1,2.5
+Sol 6.1,Mike Albano,Answers your questions,20,3,15.0
+Sol 6.1,Mike Albano,Future reasoning,20,2,10.0
+Sol 6.1,Mike Albano,Demonstrated preparedness,15,2,7.5
+Sol 6.1,Mike Albano,Local action & accountability,15,2,7.5
+Sol 6.1,Mike Albano,Jobs & public funding,20,1,5.0
+Sol 6.1,Mike Albano,Blind spots & safeguards,10,1,2.5
+Sol 6.1,Jason Brass,Answers your questions,20,3,15.0
+Sol 6.1,Jason Brass,Future reasoning,20,3,15.0
+Sol 6.1,Jason Brass,Demonstrated preparedness,15,2,7.5
+Sol 6.1,Jason Brass,Local action & accountability,15,3,11.25
+Sol 6.1,Jason Brass,Jobs & public funding,20,3,15.0
+Sol 6.1,Jason Brass,Blind spots & safeguards,10,2,5.0
+Sol 6.1,Alex Hilson,Answers your questions,20,4,20.0
+Sol 6.1,Alex Hilson,Future reasoning,20,2,10.0
+Sol 6.1,Alex Hilson,Demonstrated preparedness,15,3,11.25
+Sol 6.1,Alex Hilson,Local action & accountability,15,2,7.5
+Sol 6.1,Alex Hilson,Jobs & public funding,20,2,10.0
+Sol 6.1,Alex Hilson,Blind spots & safeguards,10,1,2.5
+Sol 6.1,Hillary Spurr,Answers your questions,20,2,10.0
+Sol 6.1,Hillary Spurr,Future reasoning,20,2,10.0
+Sol 6.1,Hillary Spurr,Demonstrated preparedness,15,2,7.5
+Sol 6.1,Hillary Spurr,Local action & accountability,15,1,3.75
+Sol 6.1,Hillary Spurr,Jobs & public funding,20,1,5.0
+Sol 6.1,Hillary Spurr,Blind spots & safeguards,10,2,5.0
+Sol 6.1,Anthony Galati,Answers your questions,20,3,15.0
+Sol 6.1,Anthony Galati,Future reasoning,20,2,10.0
+Sol 6.1,Anthony Galati,Demonstrated preparedness,15,2,7.5
+Sol 6.1,Anthony Galati,Local action & accountability,15,1,3.75
+Sol 6.1,Anthony Galati,Jobs & public funding,20,2,10.0
+Sol 6.1,Anthony Galati,Blind spots & safeguards,10,2,5.0
+Astra,Shanna Maltby,Answers your questions,20,4,20.0
+Astra,Shanna Maltby,Future reasoning,20,3,15.0
+Astra,Shanna Maltby,Demonstrated preparedness,15,3,11.25
+Astra,Shanna Maltby,Local action & accountability,15,4,15.0
+Astra,Shanna Maltby,Jobs & public funding,20,3,15.0
+Astra,Shanna Maltby,Blind spots & safeguards,10,4,10.0
+Astra,Kevin Carruthers,Answers your questions,20,3,15.0
+Astra,Kevin Carruthers,Future reasoning,20,1,5.0
+Astra,Kevin Carruthers,Demonstrated preparedness,15,2,7.5
+Astra,Kevin Carruthers,Local action & accountability,15,1,3.75
+Astra,Kevin Carruthers,Jobs & public funding,20,2,10.0
+Astra,Kevin Carruthers,Blind spots & safeguards,10,1,2.5
+Astra,Mike Albano,Answers your questions,20,3,15.0
+Astra,Mike Albano,Future reasoning,20,2,10.0
+Astra,Mike Albano,Demonstrated preparedness,15,2,7.5
+Astra,Mike Albano,Local action & accountability,15,2,7.5
+Astra,Mike Albano,Jobs & public funding,20,1,5.0
+Astra,Mike Albano,Blind spots & safeguards,10,1,2.5
+Astra,Jason Brass,Answers your questions,20,3,15.0
+Astra,Jason Brass,Future reasoning,20,4,20.0
+Astra,Jason Brass,Demonstrated preparedness,15,3,11.25
+Astra,Jason Brass,Local action & accountability,15,3,11.25
+Astra,Jason Brass,Jobs & public funding,20,3,15.0
+Astra,Jason Brass,Blind spots & safeguards,10,2,5.0
+Astra,Alex Hilson,Answers your questions,20,3,15.0
+Astra,Alex Hilson,Future reasoning,20,2,10.0
+Astra,Alex Hilson,Demonstrated preparedness,15,3,11.25
+Astra,Alex Hilson,Local action & accountability,15,2,7.5
+Astra,Alex Hilson,Jobs & public funding,20,1,5.0
+Astra,Alex Hilson,Blind spots & safeguards,10,1,2.5
+Astra,Hillary Spurr,Answers your questions,20,2,10.0
+Astra,Hillary Spurr,Future reasoning,20,2,10.0
+Astra,Hillary Spurr,Demonstrated preparedness,15,2,7.5
+Astra,Hillary Spurr,Local action & accountability,15,1,3.75
+Astra,Hillary Spurr,Jobs & public funding,20,1,5.0
+Astra,Hillary Spurr,Blind spots & safeguards,10,2,5.0
+Astra,Anthony Galati,Answers your questions,20,2,10.0
+Astra,Anthony Galati,Future reasoning,20,2,10.0
+Astra,Anthony Galati,Demonstrated preparedness,15,2,7.5
+Astra,Anthony Galati,Local action & accountability,15,1,3.75
+Astra,Anthony Galati,Jobs & public funding,20,2,10.0
+Astra,Anthony Galati,Blind spots & safeguards,10,2,5.0
+Sonnet 5.5,Shanna Maltby,Answers your questions,20,4,20.0
+Sonnet 5.5,Shanna Maltby,Future reasoning,20,3,15.0
+Sonnet 5.5,Shanna Maltby,Demonstrated preparedness,15,3,11.25
+Sonnet 5.5,Shanna Maltby,Local action & accountability,15,3,11.25
+Sonnet 5.5,Shanna Maltby,Jobs & public funding,20,3,15.0
+Sonnet 5.5,Shanna Maltby,Blind spots & safeguards,10,3,7.5
+Sonnet 5.5,Kevin Carruthers,Answers your questions,20,2,10.0
+Sonnet 5.5,Kevin Carruthers,Future reasoning,20,2,10.0
+Sonnet 5.5,Kevin Carruthers,Demonstrated preparedness,15,2,7.5
+Sonnet 5.5,Kevin Carruthers,Local action & accountability,15,1,3.75
+Sonnet 5.5,Kevin Carruthers,Jobs & public funding,20,2,10.0
+Sonnet 5.5,Kevin Carruthers,Blind spots & safeguards,10,1,2.5
+Sonnet 5.5,Mike Albano,Answers your questions,20,2,10.0
+Sonnet 5.5,Mike Albano,Future reasoning,20,2,10.0
+Sonnet 5.5,Mike Albano,Demonstrated preparedness,15,1,3.75
+Sonnet 5.5,Mike Albano,Local action & accountability,15,1,3.75
+Sonnet 5.5,Mike Albano,Jobs & public funding,20,1,5.0
+Sonnet 5.5,Mike Albano,Blind spots & safeguards,10,1,2.5
+Sonnet 5.5,Jason Brass,Answers your questions,20,3,15.0
+Sonnet 5.5,Jason Brass,Future reasoning,20,3,15.0
+Sonnet 5.5,Jason Brass,Demonstrated preparedness,15,2,7.5
+Sonnet 5.5,Jason Brass,Local action & accountability,15,3,11.25
+Sonnet 5.5,Jason Brass,Jobs & public funding,20,2,10.0
+Sonnet 5.5,Jason Brass,Blind spots & safeguards,10,2,5.0
+Sonnet 5.5,Alex Hilson,Answers your questions,20,3,15.0
+Sonnet 5.5,Alex Hilson,Future reasoning,20,2,10.0
+Sonnet 5.5,Alex Hilson,Demonstrated preparedness,15,3,11.25
+Sonnet 5.5,Alex Hilson,Local action & accountability,15,2,7.5
+Sonnet 5.5,Alex Hilson,Jobs & public funding,20,1,5.0
+Sonnet 5.5,Alex Hilson,Blind spots & safeguards,10,0,0.0
+Sonnet 5.5,Hillary Spurr,Answers your questions,20,1,5.0
+Sonnet 5.5,Hillary Spurr,Future reasoning,20,2,10.0
+Sonnet 5.5,Hillary Spurr,Demonstrated preparedness,15,1,3.75
+Sonnet 5.5,Hillary Spurr,Local action & accountability,15,1,3.75
+Sonnet 5.5,Hillary Spurr,Jobs & public funding,20,1,5.0
+Sonnet 5.5,Hillary Spurr,Blind spots & safeguards,10,1,2.5
+Sonnet 5.5,Anthony Galati,Answers your questions,20,2,10.0
+Sonnet 5.5,Anthony Galati,Future reasoning,20,2,10.0
+Sonnet 5.5,Anthony Galati,Demonstrated preparedness,15,2,7.5
+Sonnet 5.5,Anthony Galati,Local action & accountability,15,1,3.75
+Sonnet 5.5,Anthony Galati,Jobs & public funding,20,2,10.0
+Sonnet 5.5,Anthony Galati,Blind spots & safeguards,10,1,2.5
+Opus 5.5,Shanna Maltby,Answers your questions,20,4,20.0
+Opus 5.5,Shanna Maltby,Future reasoning,20,3,15.0
+Opus 5.5,Shanna Maltby,Demonstrated preparedness,15,3,11.25
+Opus 5.5,Shanna Maltby,Local action & accountability,15,3,11.25
+Opus 5.5,Shanna Maltby,Jobs & public funding,20,3,15.0
+Opus 5.5,Shanna Maltby,Blind spots & safeguards,10,3,7.5
+Opus 5.5,Kevin Carruthers,Answers your questions,20,2,10.0
+Opus 5.5,Kevin Carruthers,Future reasoning,20,2,10.0
+Opus 5.5,Kevin Carruthers,Demonstrated preparedness,15,2,7.5
+Opus 5.5,Kevin Carruthers,Local action & accountability,15,1,3.75
+Opus 5.5,Kevin Carruthers,Jobs & public funding,20,2,10.0
+Opus 5.5,Kevin Carruthers,Blind spots & safeguards,10,1,2.5
+Opus 5.5,Mike Albano,Answers your questions,20,2,10.0
+Opus 5.5,Mike Albano,Future reasoning,20,2,10.0
+Opus 5.5,Mike Albano,Demonstrated preparedness,15,1,3.75
+Opus 5.5,Mike Albano,Local action & accountability,15,1,3.75
+Opus 5.5,Mike Albano,Jobs & public funding,20,1,5.0
+Opus 5.5,Mike Albano,Blind spots & safeguards,10,1,2.5
+Opus 5.5,Jason Brass,Answers your questions,20,3,15.0
+Opus 5.5,Jason Brass,Future reasoning,20,3,15.0
+Opus 5.5,Jason Brass,Demonstrated preparedness,15,2,7.5
+Opus 5.5,Jason Brass,Local action & accountability,15,3,11.25
+Opus 5.5,Jason Brass,Jobs & public funding,20,2,10.0
+Opus 5.5,Jason Brass,Blind spots & safeguards,10,2,5.0
+Opus 5.5,Alex Hilson,Answers your questions,20,3,15.0
+Opus 5.5,Alex Hilson,Future reasoning,20,2,10.0
+Opus 5.5,Alex Hilson,Demonstrated preparedness,15,3,11.25
+Opus 5.5,Alex Hilson,Local action & accountability,15,2,7.5
+Opus 5.5,Alex Hilson,Jobs & public funding,20,1,5.0
+Opus 5.5,Alex Hilson,Blind spots & safeguards,10,1,2.5
+Opus 5.5,Hillary Spurr,Answers your questions,20,2,10.0
+Opus 5.5,Hillary Spurr,Future reasoning,20,2,10.0
+Opus 5.5,Hillary Spurr,Demonstrated preparedness,15,1,3.75
+Opus 5.5,Hillary Spurr,Local action & accountability,15,1,3.75
+Opus 5.5,Hillary Spurr,Jobs & public funding,20,1,5.0
+Opus 5.5,Hillary Spurr,Blind spots & safeguards,10,1,2.5
+Opus 5.5,Anthony Galati,Answers your questions,20,2,10.0
+Opus 5.5,Anthony Galati,Future reasoning,20,2,10.0
+Opus 5.5,Anthony Galati,Demonstrated preparedness,15,2,7.5
+Opus 5.5,Anthony Galati,Local action & accountability,15,1,3.75
+Opus 5.5,Anthony Galati,Jobs & public funding,20,2,10.0
+Opus 5.5,Anthony Galati,Blind spots & safeguards,10,1,2.5
+Grok,Shanna Maltby,Answers your questions,20,4.0,20.0
+Grok,Shanna Maltby,Future reasoning,20,4.0,20.0
+Grok,Shanna Maltby,Demonstrated preparedness,15,3.0,11.25
+Grok,Shanna Maltby,Local action & accountability,15,4.0,15.0
+Grok,Shanna Maltby,Jobs & public funding,20,3.0,15.0
+Grok,Shanna Maltby,Blind spots & safeguards,10,4.0,10.0
+Grok,Kevin Carruthers,Answers your questions,20,2.0,10.0
+Grok,Kevin Carruthers,Future reasoning,20,2.0,10.0
+Grok,Kevin Carruthers,Demonstrated preparedness,15,2.0,7.5
+Grok,Kevin Carruthers,Local action & accountability,15,1.0,3.75
+Grok,Kevin Carruthers,Jobs & public funding,20,2.0,10.0
+Grok,Kevin Carruthers,Blind spots & safeguards,10,2.0,5.0
+Grok,Mike Albano,Answers your questions,20,3.0,15.0
+Grok,Mike Albano,Future reasoning,20,3.0,15.0
+Grok,Mike Albano,Demonstrated preparedness,15,3.0,11.25
+Grok,Mike Albano,Local action & accountability,15,2.0,7.5
+Grok,Mike Albano,Jobs & public funding,20,2.0,10.0
+Grok,Mike Albano,Blind spots & safeguards,10,1.0,2.5
+Grok,Jason Brass,Answers your questions,20,3.0,15.0
+Grok,Jason Brass,Future reasoning,20,4.0,20.0
+Grok,Jason Brass,Demonstrated preparedness,15,2.0,7.5
+Grok,Jason Brass,Local action & accountability,15,4.0,15.0
+Grok,Jason Brass,Jobs & public funding,20,3.0,15.0
+Grok,Jason Brass,Blind spots & safeguards,10,2.0,5.0
+Grok,Alex Hilson,Answers your questions,20,4.0,20.0
+Grok,Alex Hilson,Future reasoning,20,3.0,15.0
+Grok,Alex Hilson,Demonstrated preparedness,15,4.0,15.0
+Grok,Alex Hilson,Local action & accountability,15,3.0,11.25
+Grok,Alex Hilson,Jobs & public funding,20,2.0,10.0
+Grok,Alex Hilson,Blind spots & safeguards,10,1.0,2.5
+Grok,Hillary Spurr,Answers your questions,20,3.0,15.0
+Grok,Hillary Spurr,Future reasoning,20,3.0,15.0
+Grok,Hillary Spurr,Demonstrated preparedness,15,2.0,7.5
+Grok,Hillary Spurr,Local action & accountability,15,2.0,7.5
+Grok,Hillary Spurr,Jobs & public funding,20,3.0,15.0
+Grok,Hillary Spurr,Blind spots & safeguards,10,2.0,5.0
+Grok,Anthony Galati,Answers your questions,20,3.0,15.0
+Grok,Anthony Galati,Future reasoning,20,2.0,10.0
+Grok,Anthony Galati,Demonstrated preparedness,15,2.0,7.5
+Grok,Anthony Galati,Local action & accountability,15,1.0,3.75
+Grok,Anthony Galati,Jobs & public funding,20,3.0,15.0
+Grok,Anthony Galati,Blind spots & safeguards,10,2.0,5.0
+Gemini 2.5 Flash,Shanna Maltby,Answers your questions,20,4,20.0
+Gemini 2.5 Flash,Shanna Maltby,Future reasoning,20,3,15.0
+Gemini 2.5 Flash,Shanna Maltby,Demonstrated preparedness,15,3,11.25
+Gemini 2.5 Flash,Shanna Maltby,Local action & accountability,15,3,11.25
+Gemini 2.5 Flash,Shanna Maltby,Jobs & public funding,20,3,15.0
+Gemini 2.5 Flash,Shanna Maltby,Blind spots & safeguards,10,3,7.5
+Gemini 2.5 Flash,Kevin Carruthers,Answers your questions,20,3,15.0
+Gemini 2.5 Flash,Kevin Carruthers,Future reasoning,20,2,10.0
+Gemini 2.5 Flash,Kevin Carruthers,Demonstrated preparedness,15,2,7.5
+Gemini 2.5 Flash,Kevin Carruthers,Local action & accountability,15,1,3.75
+Gemini 2.5 Flash,Kevin Carruthers,Jobs & public funding,20,2,10.0
+Gemini 2.5 Flash,Kevin Carruthers,Blind spots & safeguards,10,1,2.5
+Gemini 2.5 Flash,Mike Albano,Answers your questions,20,3,15.0
+Gemini 2.5 Flash,Mike Albano,Future reasoning,20,2,10.0
+Gemini 2.5 Flash,Mike Albano,Demonstrated preparedness,15,1,3.75
+Gemini 2.5 Flash,Mike Albano,Local action & accountability,15,1,3.75
+Gemini 2.5 Flash,Mike Albano,Jobs & public funding,20,2,10.0
+Gemini 2.5 Flash,Mike Albano,Blind spots & safeguards,10,0,0.0
+Gemini 2.5 Flash,Jason Brass,Answers your questions,20,3,15.0
+Gemini 2.5 Flash,Jason Brass,Future reasoning,20,3,15.0
+Gemini 2.5 Flash,Jason Brass,Demonstrated preparedness,15,2,7.5
+Gemini 2.5 Flash,Jason Brass,Local action & accountability,15,3,11.25
+Gemini 2.5 Flash,Jason Brass,Jobs & public funding,20,3,15.0
+Gemini 2.5 Flash,Jason Brass,Blind spots & safeguards,10,2,5.0
+Gemini 2.5 Flash,Alex Hilson,Answers your questions,20,4,20.0
+Gemini 2.5 Flash,Alex Hilson,Future reasoning,20,3,15.0
+Gemini 2.5 Flash,Alex Hilson,Demonstrated preparedness,15,3,11.25
+Gemini 2.5 Flash,Alex Hilson,Local action & accountability,15,3,11.25
+Gemini 2.5 Flash,Alex Hilson,Jobs & public funding,20,2,10.0
+Gemini 2.5 Flash,Alex Hilson,Blind spots & safeguards,10,1,2.5
+Gemini 2.5 Flash,Hillary Spurr,Answers your questions,20,2,10.0
+Gemini 2.5 Flash,Hillary Spurr,Future reasoning,20,2,10.0
+Gemini 2.5 Flash,Hillary Spurr,Demonstrated preparedness,15,2,7.5
+Gemini 2.5 Flash,Hillary Spurr,Local action & accountability,15,1,3.75
+Gemini 2.5 Flash,Hillary Spurr,Jobs & public funding,20,2,10.0
+Gemini 2.5 Flash,Hillary Spurr,Blind spots & safeguards,10,1,2.5
+Gemini 2.5 Flash,Anthony Galati,Answers your questions,20,3,15.0
+Gemini 2.5 Flash,Anthony Galati,Future reasoning,20,2,10.0
+Gemini 2.5 Flash,Anthony Galati,Demonstrated preparedness,15,2,7.5
+Gemini 2.5 Flash,Anthony Galati,Local action & accountability,15,1,3.75
+Gemini 2.5 Flash,Anthony Galati,Jobs & public funding,20,2,10.0
+Gemini 2.5 Flash,Anthony Galati,Blind spots & safeguards,10,1,2.5

@@ -1,0 +1,28 @@
+[
+  {
+    "reviewer": "grok",
+    "candidate": "Shanna Maltby",
+    "criterion": 2,
+    "old_level": 3.5,
+    "new_level": 4,
+    "old_points": 17.5,
+    "new_points": 20,
+    "old_total": 88.75,
+    "new_total": 91.25,
+    "source": "reviews/grok-shanna-correction.md",
+    "request": "prompts/grok-shanna-correction-request.md"
+  },
+  {
+    "reviewer": "grok",
+    "candidate": "Jason Brass",
+    "criterion": 2,
+    "old_level": 3.5,
+    "new_level": 4,
+    "old_points": 17.5,
+    "new_points": 20,
+    "old_total": 75,
+    "new_total": 77.5,
+    "source": "reviews/grok-jason-correction.md",
+    "request": "prompts/grok-jason-correction-request.md"
+  }
+]

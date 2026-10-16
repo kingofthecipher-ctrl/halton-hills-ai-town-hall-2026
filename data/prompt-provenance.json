@@ -1,0 +1,18 @@
+{
+  "common_grading_body_sha256": "f1020e18802b3b87f0c269547a3927ed83753758db911c09c1c1400f8446fa0b",
+  "wrappers": [
+    {
+      "path": "prompts/common-review-prompt.md",
+      "sha256": "edcc21039f68d063b2ee447838676670791077710f0daa71acce1ed707ae719e"
+    },
+    {
+      "path": "prompts/grok-review-prompt.md",
+      "sha256": "3e7343761c785c7cad085b18420deefd8de0e551e68b63fdeac113ac71377025"
+    },
+    {
+      "path": "prompts/gemini-review-prompt.md",
+      "sha256": "af6759db1cab836bbc7fdaa74cce183a3ed9c8a67e1dd9d5fdd26c413ca3e737"
+    }
+  ],
+  "finding": "The grading bodies are byte-identical after the app-specific introductory wrapper. This verifies the saved prompt files, not independent delivery attestation from the external apps."
+}

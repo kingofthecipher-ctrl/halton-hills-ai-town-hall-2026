@@ -1,0 +1,441 @@
+{
+  "scope": "Comparisons and advice added to the same assessment, without new grading or candidate questions.",
+  "race_source": {
+    "title": "Town of Halton Hills — Filed Nominations",
+    "url": "https://www.haltonhills.ca/filed-nominations",
+    "checked": "2026-10-15"
+  },
+  "nonresponse_source": "Chris Golden’s report in this conversation; no complete thread audit or reason for nonresponse established.",
+  "races": [
+    {
+      "key": "ward1",
+      "title": "Ward 1 · Four replies, two seats",
+      "candidate_indices": [
+        0,
+        1,
+        2,
+        6
+      ],
+      "seats": 2,
+      "takeaway": "Shanna leads all six reviews. There is no unanimous second place.",
+      "narration": "Ward one elects two local councillors. Shanna Maltby’s reply scores highest with all six reviewers. Her advantage is a process: pilots, measurement, safeguards and financial scenarios. The reviewers disagree on second place among Galati, Carruthers and Albano. Their answers offer different strengths: sharing productivity gains, warning about displacement, and adopting tools where they add public value. This measures the replies, not a predicted election result.",
+      "scores": [
+        {
+          "candidate": "Shanna Maltby",
+          "reviewer_scores": {
+            "Sol 6.1": 86.25,
+            "Astra": 86.25,
+            "Sonnet 5.5": 80.0,
+            "Opus 5.5": 80.0,
+            "Grok": 91.25,
+            "Gemini 2.5 Flash": 80.0
+          }
+        },
+        {
+          "candidate": "Kevin Carruthers",
+          "reviewer_scores": {
+            "Sol 6.1": 48.75,
+            "Astra": 43.75,
+            "Sonnet 5.5": 43.75,
+            "Opus 5.5": 43.75,
+            "Grok": 46.25,
+            "Gemini 2.5 Flash": 48.75
+          }
+        },
+        {
+          "candidate": "Mike Albano",
+          "reviewer_scores": {
+            "Sol 6.1": 47.5,
+            "Astra": 47.5,
+            "Sonnet 5.5": 35.0,
+            "Opus 5.5": 35.0,
+            "Grok": 61.25,
+            "Gemini 2.5 Flash": 42.5
+          }
+        },
+        {
+          "candidate": "Anthony Galati",
+          "reviewer_scores": {
+            "Sol 6.1": 51.25,
+            "Astra": 46.25,
+            "Sonnet 5.5": 43.75,
+            "Opus 5.5": 43.75,
+            "Grok": 56.25,
+            "Gemini 2.5 Flash": 48.75
+          }
+        }
+      ]
+    },
+    {
+      "key": "regional12",
+      "title": "Regional · Wards 1 and 2",
+      "candidate_indices": [
+        4,
+        5
+      ],
+      "seats": 1,
+      "takeaway": "Alex leads all six reviews. Both replies need a funding mechanism.",
+      "narration": "For regional councillor in wards one and two, Alex Hilson’s reply scores higher than Hillary Spurr’s with every reviewer. Hilson provides more concrete examples and evidence of engagement. Spurr puts essential workers, trades and human judgment at the centre. Neither reply sets out a detailed funding response if employment pressure arrives before savings. This is one regional race, not all regional candidates.",
+      "scores": [
+        {
+          "candidate": "Alex Hilson",
+          "reviewer_scores": {
+            "Sol 6.1": 61.25,
+            "Astra": 51.25,
+            "Sonnet 5.5": 48.75,
+            "Opus 5.5": 51.25,
+            "Grok": 73.75,
+            "Gemini 2.5 Flash": 70.0
+          }
+        },
+        {
+          "candidate": "Hillary Spurr",
+          "reviewer_scores": {
+            "Sol 6.1": 41.25,
+            "Astra": 41.25,
+            "Sonnet 5.5": 30.0,
+            "Opus 5.5": 35.0,
+            "Grok": 65.0,
+            "Gemini 2.5 Flash": 43.75
+          }
+        }
+      ]
+    },
+    {
+      "key": "mayoral",
+      "title": "Mayoral · One supplied reply",
+      "candidate_indices": [
+        3
+      ],
+      "seats": 1,
+      "takeaway": "Jason is the only mayoral respondent in this exercise.",
+      "ungraded": [
+        {
+          "candidate": "Ann Lawlor",
+          "status": "No reply reported by organiser · Ungraded"
+        },
+        {
+          "candidate": "Ivan Bosnjak",
+          "status": "No reply reported by organiser · Ungraded"
+        }
+      ],
+      "narration": "In the mayoral group, Jason Brass is the only respondent, according to the organiser. Ann Lawlor and Ivan Bosnjak did not answer, as reported by the organiser, so they receive no grade. Jason takes the participation result by default in this exercise. That gives us a reply to assess; it cannot establish that his answer would outperform answers we never received.",
+      "scores": [
+        {
+          "candidate": "Jason Brass",
+          "reviewer_scores": {
+            "Sol 6.1": 68.75,
+            "Astra": 77.5,
+            "Sonnet 5.5": 63.75,
+            "Opus 5.5": 63.75,
+            "Grok": 77.5,
+            "Gemini 2.5 Flash": 68.75
+          }
+        }
+      ]
+    }
+  ],
+  "future_gap": {
+    "headline": "A transition plan for faster change.",
+    "narration": "The biggest shared future gap is the transition itself. Several replies acknowledge jobs, risk and uncertainty, so this is not a claim that they ignored disruption. But much of the response stays at the level of useful tools, efficiency, skills or historical reassurance. What is mostly missing is a timed plan connecting changing work, household pressure, service demand and public finances, including the period before promised savings or new opportunities arrive.",
+    "display": "Changing work can pressure households and businesses\nService demand and public finances may shift\nSavings and new opportunities may arrive later\nThe missing bridge: a funded, timed transition plan.",
+    "scenarios": [
+      {
+        "title": "Gradual adoption",
+        "body": "Measure useful gains. Train staff. Keep alternatives available."
+      },
+      {
+        "title": "Rapid disruption",
+        "body": "Track local work and household pressure. Coordinate support and funding."
+      },
+      {
+        "title": "Savings disappoint",
+        "body": "Protect priority services. Set spending limits and a fallback."
+      }
+    ],
+    "scenario_narration": "The advice is to prepare for more than one pace of change. For gradual adoption, measure real gains and build skills. For rapid disruption, track local pressure and coordinate a response with the governments responsible. If promised savings disappoint, protect priority services and use a funded fallback. These are planning scenarios, not forecasts or claims that job losses are inevitable."
+  },
+  "candidate_advice": [
+    {
+      "candidate": "Shanna Maltby",
+      "title": "Turn the process into a funded first step.",
+      "advice": "Name the first pilot, its owner, cost and deadline. Add a service-funding fallback if savings are small.",
+      "narration": "For Shanna, the main opportunity is to make the process executable: name the first pilot, its owner, cost and deadline. Add a service-funding fallback if savings are small.",
+      "basis": "Pilot measurement and safeguards are already present; operational and fiscal detail would strengthen them.",
+      "sources": [
+        {
+          "reviewer": "Sol 6.1",
+          "source_file": "sol-review.md",
+          "biggest_gap": "How municipal revenues, service demand and costs would change under a defined employment downturn."
+        },
+        {
+          "reviewer": "Astra",
+          "source_file": "astra-review.md",
+          "biggest_gap": "How the Town would maintain services if employment weakens and pilot savings prove too small to offset financial pressure."
+        },
+        {
+          "reviewer": "Sonnet 5.5",
+          "source_file": "sonnet-review.md",
+          "biggest_gap": "How the Town would fund programs if assessment or collection weakened. \"Plan for different financial scenarios\" is not elaborated."
+        },
+        {
+          "reviewer": "Opus 5.5",
+          "source_file": "opus-review.md",
+          "biggest_gap": "How much near-term change she actually expects, and which specific services she would prioritize."
+        },
+        {
+          "reviewer": "Grok",
+          "source_file": "grok-review.md",
+          "biggest_gap": "Specific four-year municipal technology priorities or quantified local capacity."
+        },
+        {
+          "reviewer": "Gemini 2.5 Flash",
+          "source_file": "gemini-review.md",
+          "biggest_gap": "Specifics on how the town would structure local workforce training partnerships with provincial/educational bodies for Acton residents."
+        }
+      ],
+      "attribution": "AI-written by Codex as a synthesis across the six saved reviews. The named character voice narrates it; this is not a fresh independent review by that model."
+    },
+    {
+      "candidate": "Kevin Carruthers",
+      "title": "Turn the warning into local action.",
+      "advice": "Pair the workforce concern with one feasible Town action and a public-funding response.",
+      "narration": "For Kevin, turn the workforce warning into local action. Pair it with a feasible Town initiative, a funding response and an account of relevant personal experience. Concern about AI is not itself a scoring fault.",
+      "basis": "Reviews credit worker concerns but repeatedly identify limited local adaptation, funding and personal-use detail.",
+      "sources": [
+        {
+          "reviewer": "Sol 6.1",
+          "source_file": "sol-review.md",
+          "biggest_gap": "What the Town would do to sustain services and funding if the anticipated employment pressures occur."
+        },
+        {
+          "reviewer": "Astra",
+          "source_file": "astra-review.md",
+          "biggest_gap": "What Halton Hills would actually do to sustain services and public finances under the employment pressure he describes."
+        },
+        {
+          "reviewer": "Sonnet 5.5",
+          "source_file": "sonnet-review.md",
+          "biggest_gap": "How the Town would fund programs or adapt, and what personal use or familiarity he has."
+        },
+        {
+          "reviewer": "Opus 5.5",
+          "source_file": "opus-review.md",
+          "biggest_gap": "How the Town would fund its staff and programs, and how it should adapt."
+        },
+        {
+          "reviewer": "Grok",
+          "source_file": "grok-review.md",
+          "biggest_gap": "Concrete personal technology familiarity and any positive local adaptation steps."
+        },
+        {
+          "reviewer": "Gemini 2.5 Flash",
+          "source_file": "gemini-review.md",
+          "biggest_gap": "What concrete actions Halton Hills council should take internally regarding municipal operations or software tools."
+        }
+      ],
+      "attribution": "AI-written by Codex as a synthesis across the six saved reviews. The named character voice narrates it; this is not a fresh independent review by that model."
+    },
+    {
+      "candidate": "Mike Albano",
+      "title": "Explain how the transition gets paid for.",
+      "advice": "Bridge the period before new opportunities and savings arrive. Name the funding mechanism and priorities.",
+      "narration": "For Mike, fill the gap between adopting useful tools and reaching the hoped-for new opportunities. Explain how services and affected people would be supported during that transition, with a concrete funding mechanism.",
+      "basis": "The repeated funding gap is not resolved by the historical analogy or a general efficiency condition.",
+      "sources": [
+        {
+          "reviewer": "Sol 6.1",
+          "source_file": "sol-review.md",
+          "biggest_gap": "How public services would be financed and workers supported during disruption before any new opportunities materialize."
+        },
+        {
+          "reviewer": "Astra",
+          "source_file": "astra-review.md",
+          "biggest_gap": "How the Town would fund employees and services if job displacement arrives before new opportunities or municipal savings."
+        },
+        {
+          "reviewer": "Sonnet 5.5",
+          "source_file": "sonnet-review.md",
+          "biggest_gap": "How the public sector funds programs if private-sector employment falls."
+        },
+        {
+          "reviewer": "Opus 5.5",
+          "source_file": "opus-review.md",
+          "biggest_gap": "How the public sector would fund employees and programs if private jobs decline."
+        },
+        {
+          "reviewer": "Grok",
+          "source_file": "grok-review.md",
+          "biggest_gap": "How the town would handle revenue or demand shifts if private-sector employment contracts."
+        },
+        {
+          "reviewer": "Gemini 2.5 Flash",
+          "source_file": "gemini-review.md",
+          "biggest_gap": "How Halton Hills will financially manage local economic transitional friction before long-term replacement jobs materialize."
+        }
+      ],
+      "attribution": "AI-written by Codex as a synthesis across the six saved reviews. The named character voice narrates it; this is not a fresh independent review by that model."
+    },
+    {
+      "candidate": "Jason Brass",
+      "title": "Show hands-on readiness and a fallback.",
+      "advice": "Describe personal technology use. Add safeguards and a budget fallback to the proposed municipal trials.",
+      "narration": "For Jason, describe personal technology use and what it has taught you. Keep the practical trials, but specify safeguards and how services remain funded if the savings fall short.",
+      "basis": "Personal use is consistently identified as missing; safeguards and fallback finance recur in the saved reviews.",
+      "sources": [
+        {
+          "reviewer": "Sol 6.1",
+          "source_file": "sol-review.md",
+          "biggest_gap": "The candidate’s own technology familiarity and use, followed by the fiscal plan if expected savings do not materialize."
+        },
+        {
+          "reviewer": "Astra",
+          "source_file": "astra-review.md",
+          "biggest_gap": "His own technology familiarity and use are not directly answered; the funding strategy also needs an explicit response if savings fall short."
+        },
+        {
+          "reviewer": "Sonnet 5.5",
+          "source_file": "sonnet-review.md",
+          "biggest_gap": "Personal familiarity, and how residents or workers affected by job losses would be supported."
+        },
+        {
+          "reviewer": "Opus 5.5",
+          "source_file": "opus-review.md",
+          "biggest_gap": "His own use of and familiarity with technology."
+        },
+        {
+          "reviewer": "Grok",
+          "source_file": "grok-review.md",
+          "biggest_gap": "Personal technology use and familiarity beyond mayoral role."
+        },
+        {
+          "reviewer": "Gemini 2.5 Flash",
+          "source_file": "gemini-review.md",
+          "biggest_gap": "Direct details on his personal familiarity or daily hands-on usage of modern technology tools."
+        }
+      ],
+      "attribution": "AI-written by Codex as a synthesis across the six saved reviews. The named character voice narrates it; this is not a fresh independent review by that model."
+    },
+    {
+      "candidate": "Alex Hilson",
+      "title": "Move from examples to measured outcomes.",
+      "advice": "Separate deployments from demonstrated savings. Add costs, oversight and a plan for the transition.",
+      "narration": "For Alex, move from examples to measured outcomes: show costs, verified savings and oversight. Add a funding and workforce plan for change that arrives faster than the efficiency gains.",
+      "basis": "Reviews credit examples but distinguish claimed savings from evidence and flag transition funding and safeguards.",
+      "sources": [
+        {
+          "reviewer": "Sol 6.1",
+          "source_file": "sol-review.md",
+          "biggest_gap": "How the Town would maintain funding and support affected residents if efficiencies are insufficient or slow to arrive."
+        },
+        {
+          "reviewer": "Astra",
+          "source_file": "astra-review.md",
+          "biggest_gap": "A practical public-funding response if employment changes outpace efficiency gains."
+        },
+        {
+          "reviewer": "Sonnet 5.5",
+          "source_file": "sonnet-review.md",
+          "biggest_gap": "How the public sector would respond if private-sector layoffs strain finances and demand for services."
+        },
+        {
+          "reviewer": "Opus 5.5",
+          "source_file": "opus-review.md",
+          "biggest_gap": "How public services would be funded if private-sector jobs decline."
+        },
+        {
+          "reviewer": "Grok",
+          "source_file": "grok-review.md",
+          "biggest_gap": "How the town would protect service levels or revenues if private-sector job losses materialize faster than efficiencies."
+        },
+        {
+          "reviewer": "Gemini 2.5 Flash",
+          "source_file": "gemini-review.md",
+          "biggest_gap": "Specific safeguards or governance frameworks needed for administrative AI deployments like Copilot."
+        }
+      ],
+      "attribution": "AI-written by Codex as a synthesis across the six saved reviews. The named character voice narrates it; this is not a fresh independent review by that model."
+    },
+    {
+      "candidate": "Hillary Spurr",
+      "title": "Give people-first priorities a delivery plan.",
+      "advice": "Connect worker and service priorities to funded actions within the right government’s remit.",
+      "narration": "For Hillary, connect the people-first priorities to funded actions within the responsible government’s remit. Explain personal technology experience and how workers can adapt as tasks change, without assuming any occupation stays untouched.",
+      "basis": "Saved reviews identify personal use, implementation, funding and changes within valued occupations.",
+      "sources": [
+        {
+          "reviewer": "Sol 6.1",
+          "source_file": "sol-review.md",
+          "biggest_gap": "Where funding would come from to sustain the proposed investments if household and business finances weaken."
+        },
+        {
+          "reviewer": "Astra",
+          "source_file": "astra-review.md",
+          "biggest_gap": "How continued investment in public services would be financed if household incomes or business activity weakened."
+        },
+        {
+          "reviewer": "Sonnet 5.5",
+          "source_file": "sonnet-review.md",
+          "biggest_gap": "How the public sector would be funded if private-sector jobs shrink, and how she personally uses technology."
+        },
+        {
+          "reviewer": "Opus 5.5",
+          "source_file": "opus-review.md",
+          "biggest_gap": "How the public sector would fund programs, and her own technology use."
+        },
+        {
+          "reviewer": "Grok",
+          "source_file": "grok-review.md",
+          "biggest_gap": "Personal technology familiarity and concrete municipal adaptation or funding mechanisms."
+        },
+        {
+          "reviewer": "Gemini 2.5 Flash",
+          "source_file": "gemini-review.md",
+          "biggest_gap": "Personal familiarity/use of technology and how town tax collections will sustain public payrolls if private revenues decline."
+        }
+      ],
+      "attribution": "AI-written by Codex as a synthesis across the six saved reviews. The named character voice narrates it; this is not a fresh independent review by that model."
+    },
+    {
+      "candidate": "Anthony Galati",
+      "title": "Test the shorter-hours economics.",
+      "advice": "Demonstrate enough productivity to cover regular pay and service coverage. Define a feasible local role.",
+      "narration": "For Anthony, cost a shorter-hours trial before relying on it. Demonstrate enough productivity to preserve pay and service coverage, define the Town’s role, and state the fallback if those gains do not appear.",
+      "basis": "Reviews repeatedly identify the assumed gains, financing, municipal role and service-coverage gaps.",
+      "sources": [
+        {
+          "reviewer": "Sol 6.1",
+          "source_file": "sol-review.md",
+          "biggest_gap": "How shorter hours at unchanged pay would be financed and translated into a municipal funding or service plan."
+        },
+        {
+          "reviewer": "Astra",
+          "source_file": "astra-review.md",
+          "biggest_gap": "What the Town could do to test or advance this idea and how public programmes would remain funded if the assumed productivity gains did not arrive."
+        },
+        {
+          "reviewer": "Sonnet 5.5",
+          "source_file": "sonnet-review.md",
+          "biggest_gap": "What the Town could actually do, and how the public sector would be funded."
+        },
+        {
+          "reviewer": "Opus 5.5",
+          "source_file": "opus-review.md",
+          "biggest_gap": "How the Town would fund its staff and programs, and how government should adapt."
+        },
+        {
+          "reviewer": "Grok",
+          "source_file": "grok-review.md",
+          "biggest_gap": "How a municipality would adapt its own operations or fund services under the proposed efficiency model."
+        },
+        {
+          "reviewer": "Gemini 2.5 Flash",
+          "source_file": "gemini-review.md",
+          "biggest_gap": "How municipal operations would maintain 24/7 or 7-day public service coverage under a 4-day full-pay model without inflating tax rates."
+        }
+      ],
+      "attribution": "AI-written by Codex as a synthesis across the six saved reviews. The named character voice narrates it; this is not a fresh independent review by that model."
+    }
+  ],
+  "gap_definition": "What the supplied replies collectively leave insufficiently developed about the future; not a numerical score gap."
+}

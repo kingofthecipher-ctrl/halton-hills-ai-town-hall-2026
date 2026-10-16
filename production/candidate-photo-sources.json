@@ -1,0 +1,72 @@
+[
+  {
+    "candidate": "Shanna Maltby",
+    "local_path": "production/portrait-shanna-maltby.jpg",
+    "source_page": "https://shannamaltby.ca/",
+    "image_url": "https://img1.wsimg.com/isteam/ip/08a684ab-74c1-4bb8-a290-11af14a40bfc/70D24DA8-ED04-4035-A9CA-AAF58C5578D6.png",
+    "sha256": "1e39d90d81976fed7f4464c9fe3eb221c9ba1a8914cabe40e095e43d62d4a1c5",
+    "display_credit": "Campaign website",
+    "retrieved": "2026-10-15",
+    "identity_basis": "Named by the linked campaign page, Chamber candidate page, or supplied election-announcement caption. Each downloaded image was visually inspected."
+  },
+  {
+    "candidate": "Kevin Carruthers",
+    "local_path": "production/portrait-kevin-carruthers.jpg",
+    "source_page": "https://www.haltonhillstoday.ca/2026-municipal-election-news/acton-man-announces-intention-to-run-for-halton-hills-council-11737730",
+    "image_url": "https://www.vmcdn.ca/f/files/haltonhillstoday/20250114kevincarruthersw1.jpg;w=960",
+    "sha256": "51d23fa99e164aa39adaf1464f09972519503f22e9858a73e4e822d7a4c0d355",
+    "display_credit": "Supplied / HaltonHillsToday",
+    "retrieved": "2026-10-15",
+    "identity_basis": "Named by the linked campaign page, Chamber candidate page, or supplied election-announcement caption. Each downloaded image was visually inspected."
+  },
+  {
+    "candidate": "Mike Albano",
+    "local_path": "production/portrait-mike-albano.jpg",
+    "source_page": "https://www.haltonhillschamber.on.ca/meet-the-candidates-2026-halton-hills-municipal-election/",
+    "image_url": "https://www.haltonhillschamber.on.ca/wp-content/uploads/sites/1226/bb-plugin/cache/Mike-Albano-Headshot-portrait-ab7609a9594076d11a638a40018c6b0d-nafqs1jx7zcr.jpg",
+    "sha256": "2f3ab98a6fa79f4b10b55b0495cbc3badb70d2b253893540b0b51a247f2bc3db",
+    "display_credit": "Chamber candidate page",
+    "retrieved": "2026-10-15",
+    "identity_basis": "Named by the linked campaign page, Chamber candidate page, or supplied election-announcement caption. Each downloaded image was visually inspected."
+  },
+  {
+    "candidate": "Jason Brass",
+    "local_path": "production/portrait-jason-brass.jpg",
+    "source_page": "https://jasonbrass.ca/",
+    "image_url": "https://jasonbrass.ca/wp-content/uploads/2026/02/jason-brass-about.jpg",
+    "sha256": "63052a224e23c1ab4cac9d733cf86e99c7934d2142fbdacb1feaee71b9d7337f",
+    "display_credit": "Campaign website",
+    "retrieved": "2026-10-15",
+    "identity_basis": "Named by the linked campaign page, Chamber candidate page, or supplied election-announcement caption. Each downloaded image was visually inspected."
+  },
+  {
+    "candidate": "Alex Hilson",
+    "local_path": "production/portrait-alex-hilson.jpg",
+    "source_page": "https://alex-hilson-campaign.solidarity.tech/",
+    "image_url": "https://images.solidarity.tech/fit-in/1200x0/filters:no_upscale()/eccuok3hh4rgbqlobjolwtlnd6k7",
+    "sha256": "9643ef9aeed1155371440753a312a2f4f0fa0fcafb36ba7ecfcc690e5ac204f3",
+    "display_credit": "Campaign website",
+    "retrieved": "2026-10-15",
+    "identity_basis": "Named by the linked campaign page, Chamber candidate page, or supplied election-announcement caption. Each downloaded image was visually inspected."
+  },
+  {
+    "candidate": "Hillary Spurr",
+    "local_path": "production/portrait-hillary-spurr.jpg",
+    "source_page": "https://www.hillaryspurr.com/",
+    "image_url": "https://static.wixstatic.com/media/9c5441_b15ab801a2ae4260b8330fbd5bbe13d4~mv2.jpg",
+    "sha256": "37fcd88c47369639bea9b9a636a4652d28cb937703649a75c5cfd2538d3c5068",
+    "display_credit": "Campaign website",
+    "retrieved": "2026-10-15",
+    "identity_basis": "Named by the linked campaign page, Chamber candidate page, or supplied election-announcement caption. Each downloaded image was visually inspected."
+  },
+  {
+    "candidate": "Anthony Galati",
+    "local_path": "production/portrait-anthony-galati.jpg",
+    "source_page": "https://anthonygalati.ca/",
+    "image_url": "https://anthonygalati.ca/airo-assets/images/meet/anthony-portrait",
+    "sha256": "b854041f959b3b381da5ea5ab92a85daf7a80cf2ea215d5218802ed5ad0433dc",
+    "display_credit": "Campaign website",
+    "retrieved": "2026-10-15",
+    "identity_basis": "Named by the linked campaign page, Chamber candidate page, or supplied election-announcement caption. Each downloaded image was visually inspected."
+  }
+]

@@ -1,0 +1,991 @@
+{
+  "engine": "Kokoro",
+  "package_version": "0.9.4",
+  "model": "hexgrad/Kokoro-82M",
+  "snapshot": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+  "model_sha256": "496dba118d1a58f5f3db2efc88dbdc216e0483fc89fe6e47ee1f2c53f18ad1e4",
+  "sample_rate": 24000,
+  "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "scenes": [
+    {
+      "scene": 0,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 7.525,
+      "file": "000.wav",
+      "input_sha256": "345ea1d2f45e99bf525e71ae88aba179260552964f749ba2a25e4fc42efc467e",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 1,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 13.65,
+      "file": "001.wav",
+      "input_sha256": "b0e53f98f8b55767d1b27a0dc0285c86165fe674fd446a905fa4cb277bd6bbd2",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 2,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 12.175,
+      "file": "002.wav",
+      "input_sha256": "2cc9e5bc518201f66200b1a06b6c76cd97c80b9956214ac5c18d22223f77202b",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 3,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.04,
+      "seconds": 2.375,
+      "file": "003.wav",
+      "input_sha256": "26304962a65ea5a6b04e91895739e2a6c2e294a4bfb0525da130b6ec5c1de968",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 4,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.04,
+      "seconds": 3.3,
+      "file": "004.wav",
+      "input_sha256": "3f8726a09b397750ca78f07a40d7c0710d981223daa8486d4277b57a901b523b",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 5,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 11.825,
+      "file": "005.wav",
+      "input_sha256": "a77d5563403795755254cd972ea4dfe279ef30a20e33e22812220fd37cddf92f",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 6,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 17.0,
+      "file": "006.wav",
+      "input_sha256": "c1ffa9713f5080897838f3da461783ec34cdd952936cb039890f5edcfc654e66",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 7,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 19.65,
+      "file": "007.wav",
+      "input_sha256": "b8750e0c50376fbf8d34237344c610ae062f82614d05fa9397767ff61304f58a",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 8,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 18.75,
+      "file": "008.wav",
+      "input_sha256": "f095b1e8fde205469d1c3c8b8280bef7b80b77a8f0bf8fdebd458f0e28367d6d",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 9,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 11.65,
+      "file": "009.wav",
+      "input_sha256": "2c45fef9a0d18374a1c86d38a2a6d38cec8917541479308d468475bb6e00dfc7",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 10,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.08,
+      "seconds": 21.125,
+      "file": "010.wav",
+      "input_sha256": "a6c325cf00044506c9530ad8f784411c0d9b05f8addbb4b1758fda4425bb2418",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 11,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.08,
+      "seconds": 19.025,
+      "file": "011.wav",
+      "input_sha256": "473c9dc81a3499f12e148cb888e226c9faf1b2b5600892baf629c2000890f9bf",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 12,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.08,
+      "seconds": 17.9,
+      "file": "012.wav",
+      "input_sha256": "8f2d37796aaa6880142d556b2753bc376246909d8e3df8c90c91e9dcda050ed7",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 13,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.08,
+      "seconds": 19.15,
+      "file": "013.wav",
+      "input_sha256": "1beaad7e4ede9e5f2ce5fcdcc219cfc76b406b3ea767dc8dc8f7f45c9f4f982e",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 14,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.08,
+      "seconds": 14.525,
+      "file": "014.wav",
+      "input_sha256": "de2cb9b358ad47c635877277ed91094de8f7bb8806fbbdeebccc42e1bebe17c1",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 15,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.08,
+      "seconds": 15.4,
+      "file": "015.wav",
+      "input_sha256": "1eb6c0b23329647fca9fb2d92ec01def0ee5d526d0d108096dfe6d2bc886c075",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 16,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.04,
+      "seconds": 2.875,
+      "file": "016.wav",
+      "input_sha256": "d2f9ef7d5a1007bafaf0dac99add72b4a30d0e584a5060fcf4e2abd457276648",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 17,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.04,
+      "seconds": 3.025,
+      "file": "017.wav",
+      "input_sha256": "ec852962344d60ff6092531a275d9b7cf03f6ce3590b3ab2f5428462beab718e",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 18,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 8.8,
+      "file": "018.wav",
+      "input_sha256": "ddee45885ee328389495bf45884fa4385a4801b09ad50f4d091a96ee44a98ed1",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 19,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 7.4,
+      "file": "019.wav",
+      "input_sha256": "4c6326d76c247746459a980c81775cf096acd9d1c507f28cf3e230dfff8951f6",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 20,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.08,
+      "seconds": 19.8,
+      "file": "020.wav",
+      "input_sha256": "cc61c3285e6da74c06f402798177cecc5c95c8c83d4b9f3e4cc081ec038665d1",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 21,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.08,
+      "seconds": 21.825,
+      "file": "021.wav",
+      "input_sha256": "174c9e3850d22202e41ed2dfdfd85856422d7217b6cf4ae89018361cf8818b06",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 22,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.08,
+      "seconds": 18.0,
+      "file": "022.wav",
+      "input_sha256": "d0e83234c249c66e01012cea45c3ba8f9b38b1b803e98c283e1fb3dac4c819af",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 23,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.08,
+      "seconds": 18.275,
+      "file": "023.wav",
+      "input_sha256": "018b1708375e56cf023c8f42a6fd4d16d8794c057d748579df62e174841fb3f3",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 24,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.08,
+      "seconds": 15.2,
+      "file": "024.wav",
+      "input_sha256": "cd6852fd7a84e18dcb008f8a8e09b4f127ca1a7f2d8bb79e216e0e404bcfbd08",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 25,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.08,
+      "seconds": 14.85,
+      "file": "025.wav",
+      "input_sha256": "828c7b43e80aa8758ea81e8b879d7d558471c4f7292c3c8c5b923f6cbbc0f8c6",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 26,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.04,
+      "seconds": 3.325,
+      "file": "026.wav",
+      "input_sha256": "1432e707124f3fcc3e30a94cf9257868414f712789b048b1f896cf7089fd12ea",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 27,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.04,
+      "seconds": 3.475,
+      "file": "027.wav",
+      "input_sha256": "9ee3892db9798318dc5412eeb4a8c9b6b60184a437dd52230cc8a883def31d27",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 28,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 13.45,
+      "file": "028.wav",
+      "input_sha256": "77c476a12ea93dd6801a9e59fd0d257d121e89f3c2914a586262508bb3162e84",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 29,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 10.025,
+      "file": "029.wav",
+      "input_sha256": "0d749a087f8191c8b88a4f9513b8a3055db3b14be620c994ef70546505c2a3d1",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 30,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.08,
+      "seconds": 21.6,
+      "file": "030.wav",
+      "input_sha256": "d0ba95ddc8de43f7559e153eb84999b068e91993194c014eec9406a82f5c23d2",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 31,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.08,
+      "seconds": 22.575,
+      "file": "031.wav",
+      "input_sha256": "d6148def031933eca4306ee3be274e1d43d209dab0fc700db3bf1c3edfc7ab6a",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 32,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.08,
+      "seconds": 17.425,
+      "file": "032.wav",
+      "input_sha256": "ed31550428d2c487f14f7a5c94f5557161b4bb4a76149db974cf0fc760f55100",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 33,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.08,
+      "seconds": 17.325,
+      "file": "033.wav",
+      "input_sha256": "941da2df85c70fd39832a938637acfdbb0d7571dedc4325a6944ae4efcb404c4",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 34,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.08,
+      "seconds": 15.075,
+      "file": "034.wav",
+      "input_sha256": "dde084a83ac2669805cff42f7bd32b53cccc6b716e4747797daf7dda66b0dd53",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 35,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.08,
+      "seconds": 17.55,
+      "file": "035.wav",
+      "input_sha256": "88589116709d2ed9e22ad325f890be3053f688bfa45208f015aa70a0c82165d6",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 36,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.04,
+      "seconds": 3.65,
+      "file": "036.wav",
+      "input_sha256": "a74a215c2b63d724c7eb3e3eb83d9a3d1c9e952bf9debfc0236ca3f72e219657",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 37,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.04,
+      "seconds": 3.125,
+      "file": "037.wav",
+      "input_sha256": "849bc77998907ed3a844338c8cb362843184c5539faed0bf6c42f51adee28022",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 38,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 9.1,
+      "file": "038.wav",
+      "input_sha256": "f638690bb510012effad2189bda3f8dfb69f967909f362da7c82b6d827f0826c",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 39,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 12.35,
+      "file": "039.wav",
+      "input_sha256": "f0c8fc23326fd4d04c78bdfbf542c5f78e2a9c3b11508e07fb0aeb2905da6669",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 40,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.08,
+      "seconds": 20.45,
+      "file": "040.wav",
+      "input_sha256": "8e746993802df584dfe8b16e9ae58930e737209e4564c731ddad84ead8d20f0c",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 41,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.08,
+      "seconds": 21.35,
+      "file": "041.wav",
+      "input_sha256": "6047241d3e330e8589c85b36f72265a077212c9766ebecc3967ebd5b9a2f7666",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 42,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.08,
+      "seconds": 17.45,
+      "file": "042.wav",
+      "input_sha256": "f23864256386d9978c019782650916afcf8c9c25364f72a182392fd48592d270",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 43,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.08,
+      "seconds": 18.3,
+      "file": "043.wav",
+      "input_sha256": "7fd0f37721c7537be42a9be46a8845a0594f3ca87d509dca2a264c37a3a489b3",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 44,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.08,
+      "seconds": 15.625,
+      "file": "044.wav",
+      "input_sha256": "ac47aed41bec45f4752ba3acf8f34295ba33b26e9bf4f9e181715916fd8f4dd2",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 45,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.08,
+      "seconds": 16.65,
+      "file": "045.wav",
+      "input_sha256": "f3ff1b71628efe198d8080bbf8ed412791fe9c82a088a9d71a76bf02ebe95304",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 46,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.04,
+      "seconds": 2.725,
+      "file": "046.wav",
+      "input_sha256": "be5434d424a78af03e9f2b7284fe89faf657c1379a522bbd713a136ab39ec1ae",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 47,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.04,
+      "seconds": 3.025,
+      "file": "047.wav",
+      "input_sha256": "f91153e41eea9b971fa45ee8b53adb69d45e324bc6664ed1494c725376475685",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 48,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 11.225,
+      "file": "048.wav",
+      "input_sha256": "ddfb9e154c7ded9c0fb90b5cd782c818869f747a045e141371397f960bf69cb8",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 49,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 7.575,
+      "file": "049.wav",
+      "input_sha256": "b5553a360ab356e7e5102f3e603fa2063be3d0b57bbd96ebce43e4b4e4f971af",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 50,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.08,
+      "seconds": 22.625,
+      "file": "050.wav",
+      "input_sha256": "dec4af8973aa1aa23b30c26dcd6d5dc68aa5a3e9d1c4a5f3348659391ad16e91",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 51,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.08,
+      "seconds": 21.2,
+      "file": "051.wav",
+      "input_sha256": "349ce488aa17e205aadc3e1c427fec7612e6a874e253d1e37e882433c7497265",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 52,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.08,
+      "seconds": 18.925,
+      "file": "052.wav",
+      "input_sha256": "98c385c5f2e3a3f72e9310daae090ace2befe65148ff7c58f5680a9b28eb6881",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 53,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.08,
+      "seconds": 19.75,
+      "file": "053.wav",
+      "input_sha256": "2e1b995386c63827a646b168d38c2a8e2566abf6d4cdccfda56ca52f4f53c1e4",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 54,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.08,
+      "seconds": 17.175,
+      "file": "054.wav",
+      "input_sha256": "91f3c6d1aeff2092f5524c9cc21454ef723e97721d583059104b85c9024a7a26",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 55,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.08,
+      "seconds": 15.1,
+      "file": "055.wav",
+      "input_sha256": "8e96a2b001e4694d518c5f034361acec4bd5c71d03f3ac554bed7d4b1bdb14fc",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 56,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.04,
+      "seconds": 2.55,
+      "file": "056.wav",
+      "input_sha256": "f02ce253857d48a4f0d106f575bcd75a5ae6c3c19da6d510614c68d7f72dd8fa",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 57,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.04,
+      "seconds": 2.925,
+      "file": "057.wav",
+      "input_sha256": "72ca8323e3f1ea43bffd97e223f5e2f9557de2ae5e0c262214fb120e21fe5b14",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 58,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 12.575,
+      "file": "058.wav",
+      "input_sha256": "0db1dfe92b41c20d7deef2831487b26ff7c29323e5db9fccdd6035f256ed6e4e",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 59,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 15.25,
+      "file": "059.wav",
+      "input_sha256": "0b56788a14e301cfbef479e08c6ce0816f149d402f5746740e2c1eb687bf146e",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 60,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.08,
+      "seconds": 20.85,
+      "file": "060.wav",
+      "input_sha256": "376a2401a3112a80da4aa87aecbfab65ae47283109f9a1feeeb7d283a3a334ba",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 61,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.08,
+      "seconds": 20.575,
+      "file": "061.wav",
+      "input_sha256": "987719b8926807b0c7bc4ad6edc8af9fa9e645f0e85a2a10a26badc5ae25d7da",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 62,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.08,
+      "seconds": 15.025,
+      "file": "062.wav",
+      "input_sha256": "65bd808a13757d2ddfb9b034c56f6e36e8e08eb6a7217a4826ee029951f66364",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 63,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.08,
+      "seconds": 16.275,
+      "file": "063.wav",
+      "input_sha256": "a46fd01162a95f6c99c5d5c73bdfc4fb8c782732cc01ed659e853f371d814cce",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 64,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.08,
+      "seconds": 14.75,
+      "file": "064.wav",
+      "input_sha256": "6f1b1f345500b0273e3677fb303cdfba7b43ba54f0d1062914e752a8f059459e",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 65,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.08,
+      "seconds": 15.85,
+      "file": "065.wav",
+      "input_sha256": "ebe26f06ad2d0ba408120298a8a3d2c72b77ffcc20f7cc1857285abf54fdef85",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 66,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.04,
+      "seconds": 2.975,
+      "file": "066.wav",
+      "input_sha256": "29a65285da087583b48fc6c88910269ddc9ee2e0aa5faf2d25ad3fc54b94d240",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 67,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.04,
+      "seconds": 3.4,
+      "file": "067.wav",
+      "input_sha256": "166d18fa8bbc50d0101ee9166855ff92d96fa6cec242ad712fdc2b193ac0dacb",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 68,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 12.25,
+      "file": "068.wav",
+      "input_sha256": "ffd3652c4c539adf8ea205ba29bb1bf3021c566885172e8a1e50b5ad44bbc838",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 69,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 12.5,
+      "file": "069.wav",
+      "input_sha256": "4b0469b15fd6de65ed1e26209b92a772b9c4e4640bb90fea4ccc027f78e7bbc1",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 70,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.08,
+      "seconds": 19.875,
+      "file": "070.wav",
+      "input_sha256": "ff593ad0e31c53ef7dd4fd41142d591279c0fa7751eb52da2cad783d5315a470",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 71,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.08,
+      "seconds": 20.65,
+      "file": "071.wav",
+      "input_sha256": "89832977f28f396ce45a68b412abad0d6c5cd61e6d5f4d49324df046598974ee",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 72,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.08,
+      "seconds": 15.775,
+      "file": "072.wav",
+      "input_sha256": "8707bdd1d61e75aca103f3519f690aaff5184bef583c754a315bd008e9030087",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 73,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.08,
+      "seconds": 16.125,
+      "file": "073.wav",
+      "input_sha256": "631f44b560f548bdf61a220183595afb767c7452040842894e0f49852f709841",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 74,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.08,
+      "seconds": 16.075,
+      "file": "074.wav",
+      "input_sha256": "bd893b97e025c47b4f75c4d7bf4fbd709ac5d786b4d5ed4b489d16aed4c82539",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 75,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.08,
+      "seconds": 15.525,
+      "file": "075.wav",
+      "input_sha256": "c9b2532021217914a6435fa9b463e3ff4c5d3c295e505fe05a1013819f9ca8f3",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 76,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.04,
+      "seconds": 2.925,
+      "file": "076.wav",
+      "input_sha256": "f11aa9ec1bb783a0aba9a05cb97f20be1b2e88ee0bb1432ae38019873fcebdcf",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 77,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.04,
+      "seconds": 2.975,
+      "file": "077.wav",
+      "input_sha256": "3c3c4d09d8635c780e33e1809d2bd7e962a38bad412e002ddea75019f32fcd30",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 78,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 11.3,
+      "file": "078.wav",
+      "input_sha256": "0960073a32ff072277870ae94d9cf45497f63e95cd750766e74e4a7e3391b8a0",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 79,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 18.35,
+      "file": "079.wav",
+      "input_sha256": "1eee80649eb7fd636241b81f6c2c5028acb8b4e198a9c6fc742ceaa7b5d3ee19",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 80,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 28.025,
+      "file": "080.wav",
+      "input_sha256": "340b002ab00fcc0210aa43f5681f9dee16e02e3e5ced988bf9bf99da5e8d0184",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 81,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.04,
+      "seconds": 3.5,
+      "file": "081.wav",
+      "input_sha256": "088902a01754721c7ed6009cb188ce2f426c2e36208ef827b1a0f8b2356c7de0",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 82,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.04,
+      "seconds": 4.075,
+      "file": "082.wav",
+      "input_sha256": "97840b4161437ab021321da598c64360ffbd4d8b6d07139b5f6b6dab25407b97",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 83,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 25.65,
+      "file": "083.wav",
+      "input_sha256": "de4f14bedcd9e41d7c63473dc2cff8cb06b9e1957211e0894236cbb6f5a864d2",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 84,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 23.7,
+      "file": "084.wav",
+      "input_sha256": "ec816f90bb1196a9f0387664459d92ebfa987e4011ccc2075262ceee88111a64",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 85,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 28.0,
+      "file": "085.wav",
+      "input_sha256": "fda1d6e23ceefb0e16f0a69a678fbe17791ebfd29bc0ba6883f5d55716092737",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 86,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 24.3,
+      "file": "086.wav",
+      "input_sha256": "fa7478b280f64a4d773dd5b05d2a955a6d372b02247c827ec82df74d0189f7b9",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 87,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.04,
+      "seconds": 12.275,
+      "file": "087.wav",
+      "input_sha256": "fe8f7ec89801e39b8539954058e6cd3f650c9dcd02d4f9b0510ac7e6f1d82978",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 88,
+      "speaker": "Astra",
+      "voice": "af_bella",
+      "speed": 1.04,
+      "seconds": 14.225,
+      "file": "088.wav",
+      "input_sha256": "d703f0b251ab5248fda97fe8c94c19b1cc3d077e2f6a19a067323ec4c0a0a516",
+      "voice_sha256": "8cb64e02fcc8de0327a8e13817e49c76c945ecf0052ceac97d3081480e8e48d6"
+    },
+    {
+      "scene": 89,
+      "speaker": "Sonnet 5.5",
+      "voice": "bf_emma",
+      "speed": 1.04,
+      "seconds": 12.775,
+      "file": "089.wav",
+      "input_sha256": "92485b8ae5799553eb4830aa51980e6a0c22bb2010d0ccc56e9a0ab3b14680a3",
+      "voice_sha256": "d0a423deabf4a52b4f49318c51742c54e21bb89bbbe9a12141e7758ddb5da701"
+    },
+    {
+      "scene": 90,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.04,
+      "seconds": 12.55,
+      "file": "090.wav",
+      "input_sha256": "208b13c2e757225ce5a5bd1ca6123ddd7cb39ce7c2d0a14b2b7ebe6ead355a98",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 91,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.04,
+      "seconds": 12.325,
+      "file": "091.wav",
+      "input_sha256": "157c51f71d0935dd7076e557f64bdfd45a1b150f6c8c6ce9749a7a15ffffbbf5",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 92,
+      "speaker": "Gemini 2.5 Flash",
+      "voice": "af_sarah",
+      "speed": 1.04,
+      "seconds": 15.275,
+      "file": "092.wav",
+      "input_sha256": "1b0d6a3dd110dcbc3afc54556ca99ed31437678f9e277002d5f9a61e64273931",
+      "voice_sha256": "49bd364ea3be9eb3e9685e8f9a15448c4883112a7c0ff7ab139fa4088b08cef9"
+    },
+    {
+      "scene": 93,
+      "speaker": "Sol 6.1",
+      "voice": "am_michael",
+      "speed": 1.04,
+      "seconds": 14.625,
+      "file": "093.wav",
+      "input_sha256": "ce3e22a9d828c05302d90f10bcf77981e5e0f94408a9493a11216e7387b114ec",
+      "voice_sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37"
+    },
+    {
+      "scene": 94,
+      "speaker": "Grok",
+      "voice": "am_fenrir",
+      "speed": 1.04,
+      "seconds": 3.875,
+      "file": "094.wav",
+      "input_sha256": "4fafaa1e84e1f2c5510eba751afdc62060a8e6232374d48341dda447e3f8e5e2",
+      "voice_sha256": "98e507eca1db08230ae3b6232d59c10aec9630022d19accac4f5d12fcec3c37a"
+    },
+    {
+      "scene": 95,
+      "speaker": "Opus 5.5",
+      "voice": "bm_george",
+      "speed": 1.04,
+      "seconds": 4.825,
+      "file": "095.wav",
+      "input_sha256": "2dbb0068814db3dc8c6ebcad6ed01710297fe0844e94c2deecdd83b95ece4a5b",
+      "voice_sha256": "f1bc812213dc59774769e5c80004b13eeb79bd78130b11b2d7f934542dab811b"
+    },
+    {
+      "scene": 96,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 18.975,
+      "file": "096.wav",
+      "input_sha256": "1e43ac54ff264a6e7b3435f0dc7451b2d933c86c79325eba20454baf3770279c",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    },
+    {
+      "scene": 97,
+      "speaker": "Host",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "seconds": 23.0,
+      "file": "097.wav",
+      "input_sha256": "ae72317dbd9b70e92a1b4265d6a92808b2a64667b53ad4938c5c63e539b60749",
+      "voice_sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+[
+  {
+    "scene": 0,
+    "start": 0.0,
+    "duration": 8.083333333333334,
+    "kind": "opener",
+    "speaker": "Host",
+    "title": "Seven replies. Six AI reviewers."
+  },
+  {
+    "scene": 1,
+    "start": 8.083333333333334,
+    "duration": 14.208333333333334,
+    "kind": "candidates",
+    "speaker": "Host",
+    "title": "The seven supplied replies"
+  },
+  {
+    "scene": 2,
+    "start": 22.291666666666668,
+    "duration": 12.708333333333334,
+    "kind": "cast",
+    "speaker": "Host",
+    "title": "Meet the AI panel"
+  },
+  {
+    "scene": 3,
+    "start": 35.0,
+    "duration": 2.9166666666666665,
+    "kind": "banter",
+    "speaker": "Grok",
+    "title": "The panel has been briefed."
+  },
+  {
+    "scene": 4,
+    "start": 37.916666666666664,
+    "duration": 3.8333333333333335,
+    "kind": "banter",
+    "speaker": "Opus 5.5",
+    "title": "The panel has been briefed."
+  },
+  {
+    "scene": 5,
+    "start": 41.75,
+    "duration": 12.375,
+    "kind": "method",
+    "speaker": "Host",
+    "title": "The original question"
+  },
+  {
+    "scene": 6,
+    "start": 54.125,
+    "duration": 17.541666666666668,
+    "kind": "method",
+    "speaker": "Host",
+    "title": "Same inputs. Same scoring rules."
+  },
+  {
+    "scene": 7,
+    "start": 71.66666666666667,
+    "duration": 20.208333333333332,
+    "kind": "rubric",
+    "speaker": "Host",
+    "title": "One shared rubric. Original replies only."
+  },
+  {
+    "scene": 8,
+    "start": 91.875,
+    "duration": 19.291666666666668,
+    "kind": "method",
+    "speaker": "Host",
+    "title": "Scores checked. Performance labelled."
+  },
+  {
+    "scene": 9,
+    "start": 111.16666666666667,
+    "duration": 12.208333333333334,
+    "kind": "quote",
+    "speaker": "Host",
+    "title": "Shanna Maltby"
+  },
+  {
+    "scene": 10,
+    "start": 123.375,
+    "duration": 21.666666666666668,
+    "kind": "review",
+    "speaker": "Sol 6.1",
+    "title": "Sol 6.1"
+  },
+  {
+    "scene": 11,
+    "start": 145.04166666666666,
+    "duration": 19.583333333333332,
+    "kind": "review",
+    "speaker": "Astra",
+    "title": "Astra"
+  },
+  {
+    "scene": 12,
+    "start": 164.625,
+    "duration": 18.458333333333332,
+    "kind": "review",
+    "speaker": "Sonnet 5.5",
+    "title": "Sonnet 5.5"
+  },
+  {
+    "scene": 13,
+    "start": 183.08333333333334,
+    "duration": 19.708333333333332,
+    "kind": "review",
+    "speaker": "Opus 5.5",
+    "title": "Opus 5.5"
+  },
+  {
+    "scene": 14,
+    "start": 202.79166666666669,
+    "duration": 15.083333333333334,
+    "kind": "review",
+    "speaker": "Grok",
+    "title": "Grok"
+  },
+  {
+    "scene": 15,
+    "start": 217.87500000000003,
+    "duration": 15.958333333333334,
+    "kind": "review",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Gemini 2.5 Flash"
+  },
+  {
+    "scene": 16,
+    "start": 233.83333333333337,
+    "duration": 3.4166666666666665,
+    "kind": "banter",
+    "speaker": "Sol 6.1",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 17,
+    "start": 237.25000000000003,
+    "duration": 3.5833333333333335,
+    "kind": "banter",
+    "speaker": "Opus 5.5",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 18,
+    "start": 240.83333333333337,
+    "duration": 9.333333333333334,
+    "kind": "findings",
+    "speaker": "Host",
+    "title": "What the panel found"
+  },
+  {
+    "scene": 19,
+    "start": 250.1666666666667,
+    "duration": 7.958333333333333,
+    "kind": "quote",
+    "speaker": "Host",
+    "title": "Kevin Carruthers"
+  },
+  {
+    "scene": 20,
+    "start": 258.12500000000006,
+    "duration": 20.333333333333332,
+    "kind": "review",
+    "speaker": "Sol 6.1",
+    "title": "Sol 6.1"
+  },
+  {
+    "scene": 21,
+    "start": 278.45833333333337,
+    "duration": 22.375,
+    "kind": "review",
+    "speaker": "Astra",
+    "title": "Astra"
+  },
+  {
+    "scene": 22,
+    "start": 300.83333333333337,
+    "duration": 18.541666666666668,
+    "kind": "review",
+    "speaker": "Sonnet 5.5",
+    "title": "Sonnet 5.5"
+  },
+  {
+    "scene": 23,
+    "start": 319.37500000000006,
+    "duration": 18.833333333333332,
+    "kind": "review",
+    "speaker": "Opus 5.5",
+    "title": "Opus 5.5"
+  },
+  {
+    "scene": 24,
+    "start": 338.20833333333337,
+    "duration": 15.75,
+    "kind": "review",
+    "speaker": "Grok",
+    "title": "Grok"
+  },
+  {
+    "scene": 25,
+    "start": 353.95833333333337,
+    "duration": 15.375,
+    "kind": "review",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Gemini 2.5 Flash"
+  },
+  {
+    "scene": 26,
+    "start": 369.33333333333337,
+    "duration": 3.875,
+    "kind": "banter",
+    "speaker": "Grok",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 27,
+    "start": 373.20833333333337,
+    "duration": 4.0,
+    "kind": "banter",
+    "speaker": "Astra",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 28,
+    "start": 377.20833333333337,
+    "duration": 14.0,
+    "kind": "findings",
+    "speaker": "Host",
+    "title": "What the panel found"
+  },
+  {
+    "scene": 29,
+    "start": 391.20833333333337,
+    "duration": 10.583333333333334,
+    "kind": "quote",
+    "speaker": "Host",
+    "title": "Mike Albano"
+  },
+  {
+    "scene": 30,
+    "start": 401.7916666666667,
+    "duration": 22.125,
+    "kind": "review",
+    "speaker": "Sol 6.1",
+    "title": "Sol 6.1"
+  },
+  {
+    "scene": 31,
+    "start": 423.9166666666667,
+    "duration": 23.125,
+    "kind": "review",
+    "speaker": "Astra",
+    "title": "Astra"
+  },
+  {
+    "scene": 32,
+    "start": 447.0416666666667,
+    "duration": 17.958333333333332,
+    "kind": "review",
+    "speaker": "Sonnet 5.5",
+    "title": "Sonnet 5.5"
+  },
+  {
+    "scene": 33,
+    "start": 465.0,
+    "duration": 17.875,
+    "kind": "review",
+    "speaker": "Opus 5.5",
+    "title": "Opus 5.5"
+  },
+  {
+    "scene": 34,
+    "start": 482.875,
+    "duration": 15.625,
+    "kind": "review",
+    "speaker": "Grok",
+    "title": "Grok"
+  },
+  {
+    "scene": 35,
+    "start": 498.5,
+    "duration": 18.083333333333332,
+    "kind": "review",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Gemini 2.5 Flash"
+  },
+  {
+    "scene": 36,
+    "start": 516.5833333333334,
+    "duration": 4.208333333333333,
+    "kind": "banter",
+    "speaker": "Sonnet 5.5",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 37,
+    "start": 520.7916666666667,
+    "duration": 3.6666666666666665,
+    "kind": "banter",
+    "speaker": "Sol 6.1",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 38,
+    "start": 524.4583333333334,
+    "duration": 9.625,
+    "kind": "findings",
+    "speaker": "Host",
+    "title": "What the panel found"
+  },
+  {
+    "scene": 39,
+    "start": 534.0833333333334,
+    "duration": 12.875,
+    "kind": "quote",
+    "speaker": "Host",
+    "title": "Jason Brass"
+  },
+  {
+    "scene": 40,
+    "start": 546.9583333333334,
+    "duration": 21.0,
+    "kind": "review",
+    "speaker": "Sol 6.1",
+    "title": "Sol 6.1"
+  },
+  {
+    "scene": 41,
+    "start": 567.9583333333334,
+    "duration": 21.875,
+    "kind": "review",
+    "speaker": "Astra",
+    "title": "Astra"
+  },
+  {
+    "scene": 42,
+    "start": 589.8333333333334,
+    "duration": 18.0,
+    "kind": "review",
+    "speaker": "Sonnet 5.5",
+    "title": "Sonnet 5.5"
+  },
+  {
+    "scene": 43,
+    "start": 607.8333333333334,
+    "duration": 18.833333333333332,
+    "kind": "review",
+    "speaker": "Opus 5.5",
+    "title": "Opus 5.5"
+  },
+  {
+    "scene": 44,
+    "start": 626.6666666666667,
+    "duration": 16.166666666666668,
+    "kind": "review",
+    "speaker": "Grok",
+    "title": "Grok"
+  },
+  {
+    "scene": 45,
+    "start": 642.8333333333334,
+    "duration": 17.208333333333332,
+    "kind": "review",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Gemini 2.5 Flash"
+  },
+  {
+    "scene": 46,
+    "start": 660.0416666666667,
+    "duration": 3.25,
+    "kind": "banter",
+    "speaker": "Grok",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 47,
+    "start": 663.2916666666667,
+    "duration": 3.5833333333333335,
+    "kind": "banter",
+    "speaker": "Opus 5.5",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 48,
+    "start": 666.8750000000001,
+    "duration": 11.75,
+    "kind": "findings",
+    "speaker": "Host",
+    "title": "What the panel found"
+  },
+  {
+    "scene": 49,
+    "start": 678.6250000000001,
+    "duration": 8.125,
+    "kind": "quote",
+    "speaker": "Host",
+    "title": "Alex Hilson"
+  },
+  {
+    "scene": 50,
+    "start": 686.7500000000001,
+    "duration": 23.166666666666668,
+    "kind": "review",
+    "speaker": "Sol 6.1",
+    "title": "Sol 6.1"
+  },
+  {
+    "scene": 51,
+    "start": 709.9166666666667,
+    "duration": 21.75,
+    "kind": "review",
+    "speaker": "Astra",
+    "title": "Astra"
+  },
+  {
+    "scene": 52,
+    "start": 731.6666666666667,
+    "duration": 19.458333333333332,
+    "kind": "review",
+    "speaker": "Sonnet 5.5",
+    "title": "Sonnet 5.5"
+  },
+  {
+    "scene": 53,
+    "start": 751.1250000000001,
+    "duration": 20.291666666666668,
+    "kind": "review",
+    "speaker": "Opus 5.5",
+    "title": "Opus 5.5"
+  },
+  {
+    "scene": 54,
+    "start": 771.4166666666667,
+    "duration": 17.708333333333332,
+    "kind": "review",
+    "speaker": "Grok",
+    "title": "Grok"
+  },
+  {
+    "scene": 55,
+    "start": 789.1250000000001,
+    "duration": 15.625,
+    "kind": "review",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Gemini 2.5 Flash"
+  },
+  {
+    "scene": 56,
+    "start": 804.7500000000001,
+    "duration": 3.0833333333333335,
+    "kind": "banter",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 57,
+    "start": 807.8333333333335,
+    "duration": 3.4583333333333335,
+    "kind": "banter",
+    "speaker": "Astra",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 58,
+    "start": 811.2916666666669,
+    "duration": 13.125,
+    "kind": "findings",
+    "speaker": "Host",
+    "title": "What the panel found"
+  },
+  {
+    "scene": 59,
+    "start": 824.4166666666669,
+    "duration": 15.791666666666666,
+    "kind": "quote",
+    "speaker": "Host",
+    "title": "Hillary Spurr"
+  },
+  {
+    "scene": 60,
+    "start": 840.2083333333335,
+    "duration": 21.375,
+    "kind": "review",
+    "speaker": "Sol 6.1",
+    "title": "Sol 6.1"
+  },
+  {
+    "scene": 61,
+    "start": 861.5833333333335,
+    "duration": 21.125,
+    "kind": "review",
+    "speaker": "Astra",
+    "title": "Astra"
+  },
+  {
+    "scene": 62,
+    "start": 882.7083333333335,
+    "duration": 15.583333333333334,
+    "kind": "review",
+    "speaker": "Sonnet 5.5",
+    "title": "Sonnet 5.5"
+  },
+  {
+    "scene": 63,
+    "start": 898.2916666666669,
+    "duration": 16.833333333333332,
+    "kind": "review",
+    "speaker": "Opus 5.5",
+    "title": "Opus 5.5"
+  },
+  {
+    "scene": 64,
+    "start": 915.1250000000002,
+    "duration": 15.291666666666666,
+    "kind": "review",
+    "speaker": "Grok",
+    "title": "Grok"
+  },
+  {
+    "scene": 65,
+    "start": 930.4166666666669,
+    "duration": 16.375,
+    "kind": "review",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Gemini 2.5 Flash"
+  },
+  {
+    "scene": 66,
+    "start": 946.7916666666669,
+    "duration": 3.5,
+    "kind": "banter",
+    "speaker": "Sonnet 5.5",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 67,
+    "start": 950.2916666666669,
+    "duration": 3.9583333333333335,
+    "kind": "banter",
+    "speaker": "Opus 5.5",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 68,
+    "start": 954.2500000000002,
+    "duration": 12.791666666666666,
+    "kind": "findings",
+    "speaker": "Host",
+    "title": "What the panel found"
+  },
+  {
+    "scene": 69,
+    "start": 967.0416666666669,
+    "duration": 13.041666666666666,
+    "kind": "quote",
+    "speaker": "Host",
+    "title": "Anthony Galati"
+  },
+  {
+    "scene": 70,
+    "start": 980.0833333333335,
+    "duration": 20.416666666666668,
+    "kind": "review",
+    "speaker": "Sol 6.1",
+    "title": "Sol 6.1"
+  },
+  {
+    "scene": 71,
+    "start": 1000.5000000000001,
+    "duration": 21.208333333333332,
+    "kind": "review",
+    "speaker": "Astra",
+    "title": "Astra"
+  },
+  {
+    "scene": 72,
+    "start": 1021.7083333333335,
+    "duration": 16.333333333333332,
+    "kind": "review",
+    "speaker": "Sonnet 5.5",
+    "title": "Sonnet 5.5"
+  },
+  {
+    "scene": 73,
+    "start": 1038.0416666666667,
+    "duration": 16.666666666666668,
+    "kind": "review",
+    "speaker": "Opus 5.5",
+    "title": "Opus 5.5"
+  },
+  {
+    "scene": 74,
+    "start": 1054.7083333333335,
+    "duration": 16.625,
+    "kind": "review",
+    "speaker": "Grok",
+    "title": "Grok"
+  },
+  {
+    "scene": 75,
+    "start": 1071.3333333333335,
+    "duration": 16.083333333333332,
+    "kind": "review",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Gemini 2.5 Flash"
+  },
+  {
+    "scene": 76,
+    "start": 1087.4166666666667,
+    "duration": 3.4583333333333335,
+    "kind": "banter",
+    "speaker": "Grok",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 77,
+    "start": 1090.875,
+    "duration": 3.5,
+    "kind": "banter",
+    "speaker": "Sol 6.1",
+    "title": "Meanwhile, at the AI desk…"
+  },
+  {
+    "scene": 78,
+    "start": 1094.375,
+    "duration": 11.833333333333334,
+    "kind": "findings",
+    "speaker": "Host",
+    "title": "What the panel found"
+  },
+  {
+    "scene": 79,
+    "start": 1106.2083333333333,
+    "duration": 18.875,
+    "kind": "comparison",
+    "speaker": "Host",
+    "title": "All seven replies. All six reviewers."
+  },
+  {
+    "scene": 80,
+    "start": 1125.0833333333333,
+    "duration": 28.583333333333332,
+    "kind": "race",
+    "speaker": "Host",
+    "title": "Ward 1 · Four replies, two seats"
+  },
+  {
+    "scene": 81,
+    "start": 1153.6666666666665,
+    "duration": 4.041666666666667,
+    "kind": "banter",
+    "speaker": "Grok",
+    "title": "The panel checks its jurisdiction."
+  },
+  {
+    "scene": 82,
+    "start": 1157.7083333333333,
+    "duration": 4.625,
+    "kind": "banter",
+    "speaker": "Opus 5.5",
+    "title": "The panel checks its jurisdiction."
+  },
+  {
+    "scene": 83,
+    "start": 1162.3333333333333,
+    "duration": 26.208333333333332,
+    "kind": "race",
+    "speaker": "Host",
+    "title": "Regional · Wards 1 and 2"
+  },
+  {
+    "scene": 84,
+    "start": 1188.5416666666665,
+    "duration": 24.25,
+    "kind": "race",
+    "speaker": "Host",
+    "title": "Mayoral · One supplied reply"
+  },
+  {
+    "scene": 85,
+    "start": 1212.7916666666665,
+    "duration": 28.541666666666668,
+    "kind": "closing",
+    "speaker": "Host",
+    "title": "What is missing most about the future?"
+  },
+  {
+    "scene": 86,
+    "start": 1241.3333333333333,
+    "duration": 24.833333333333332,
+    "kind": "scenarios",
+    "speaker": "Host",
+    "title": "Plan for more than one future."
+  },
+  {
+    "scene": 87,
+    "start": 1266.1666666666665,
+    "duration": 12.833333333333334,
+    "kind": "advice",
+    "speaker": "Sol 6.1",
+    "title": "Turn the process into a funded first step."
+  },
+  {
+    "scene": 88,
+    "start": 1278.9999999999998,
+    "duration": 14.75,
+    "kind": "advice",
+    "speaker": "Astra",
+    "title": "Turn the warning into local action."
+  },
+  {
+    "scene": 89,
+    "start": 1293.7499999999998,
+    "duration": 13.333333333333334,
+    "kind": "advice",
+    "speaker": "Sonnet 5.5",
+    "title": "Explain how the transition gets paid for."
+  },
+  {
+    "scene": 90,
+    "start": 1307.083333333333,
+    "duration": 13.083333333333334,
+    "kind": "advice",
+    "speaker": "Opus 5.5",
+    "title": "Show hands-on readiness and a fallback."
+  },
+  {
+    "scene": 91,
+    "start": 1320.1666666666663,
+    "duration": 12.875,
+    "kind": "advice",
+    "speaker": "Grok",
+    "title": "Move from examples to measured outcomes."
+  },
+  {
+    "scene": 92,
+    "start": 1333.0416666666663,
+    "duration": 15.833333333333334,
+    "kind": "advice",
+    "speaker": "Gemini 2.5 Flash",
+    "title": "Give people-first priorities a delivery plan."
+  },
+  {
+    "scene": 93,
+    "start": 1348.8749999999995,
+    "duration": 15.166666666666666,
+    "kind": "advice",
+    "speaker": "Sol 6.1",
+    "title": "Test the shorter-hours economics."
+  },
+  {
+    "scene": 94,
+    "start": 1364.0416666666663,
+    "duration": 4.416666666666667,
+    "kind": "banter",
+    "speaker": "Grok",
+    "title": "The robots file their closing notes."
+  },
+  {
+    "scene": 95,
+    "start": 1368.458333333333,
+    "duration": 5.375,
+    "kind": "banter",
+    "speaker": "Opus 5.5",
+    "title": "The robots file their closing notes."
+  },
+  {
+    "scene": 96,
+    "start": 1373.833333333333,
+    "duration": 19.5,
+    "kind": "closing",
+    "speaker": "Host",
+    "title": "The panel’s biggest practical takeaway"
+  },
+  {
+    "scene": 97,
+    "start": 1393.333333333333,
+    "duration": 23.541666666666668,
+    "kind": "credits",
+    "speaker": "Host",
+    "title": "Seven replies. Six perspectives."
+  }
+]

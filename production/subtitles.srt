@@ -1,0 +1,1484 @@
+1
+00:00:00,000 --> 00:00:06,527
+Seven candidate replies. Six AI reviewers.
+One local budget. Welcome to AI Town Hall,
+
+2
+00:00:06,527 --> 00:00:07,525
+Halton Hills.
+
+3
+00:00:08,083 --> 00:00:12,940
+The seven replies supplied for this project
+come from Shanna Maltby, Kevin
+
+4
+00:00:12,940 --> 00:00:18,518
+Carruthers, Mike Albano, Jason Brass, Alex
+Hilson, Hillary Spurr, and Anthony Galati.
+
+5
+00:00:18,518 --> 00:00:21,733
+We will use the same screenshot order
+throughout.
+
+6
+00:00:22,292 --> 00:00:28,073
+The six saved reviews come from Sol six point
+one, Astra, Claude Sonnet, Claude Opus,
+
+7
+00:00:28,073 --> 00:00:33,582
+Grok, and Gemini. Each gets a distinct robot
+and a stock synthetic voice for this
+
+8
+00:00:33,582 --> 00:00:34,467
+presentation.
+
+9
+00:00:35,000 --> 00:00:37,375
+I have been told this is not a roast.
+
+10
+00:00:37,917 --> 00:00:41,217
+Correct. We are saving the heat for the
+spreadsheet.
+
+11
+00:00:41,750 --> 00:00:46,677
+The resident asked how government will adapt
+to rapid technological change, what
+
+12
+00:00:46,677 --> 00:00:51,604
+experience candidates have, and how public
+staff and services would be funded if
+
+13
+00:00:51,604 --> 00:00:53,575
+private sector employment falls.
+
+14
+00:00:54,125 --> 00:00:59,537
+Each reviewer received the original question,
+the same seven screenshots and a shared
+
+15
+00:00:59,537 --> 00:01:04,567
+dated context packet. Names were visible, so
+this was not blinded. Reviews were
+
+16
+00:01:04,567 --> 00:01:09,852
+collected separately without supplying other
+reviewers’ scores. Their judgments can
+
+17
+00:01:09,852 --> 00:01:11,125
+still be correlated.
+
+18
+00:01:11,667 --> 00:01:17,166
+Six criteria cover answers, future reasoning,
+preparedness, local action, jobs and
+
+19
+00:01:17,166 --> 00:01:22,866
+public funding, and blind spots. Each uses
+integer levels zero to four, multiplied by
+
+20
+00:01:22,866 --> 00:01:28,366
+the displayed category weight. We assess what
+each reply demonstrates, not overall
+
+21
+00:01:28,366 --> 00:01:31,317
+competence or agreement with the questioner.
+
+22
+00:01:31,875 --> 00:01:37,112
+All forty-two scores were checked against the
+shared rubric. Edited summaries are
+
+23
+00:01:37,112 --> 00:01:42,478
+labelled. Codex wrote the robot banter as a
+script for this video. It is not a live
+
+24
+00:01:42,478 --> 00:01:47,909
+exchange between the reviewers. Closing
+advice synthesizes their saved reviews. This
+
+25
+00:01:47,909 --> 00:01:50,625
+is one assessment of the original replies.
+
+26
+00:01:51,167 --> 00:01:56,229
+Shanna Maltby. An excerpt from the reply. We
+should identify where technology could
+
+27
+00:01:56,229 --> 00:02:01,048
+improve services, test it through small
+projects and measure the results before
+
+28
+00:02:01,048 --> 00:02:02,817
+committing significant money.
+
+29
+00:02:03,375 --> 00:02:08,889
+Maltby addresses the resident’s main
+questions with small trials, measured
+savings,
+
+30
+00:02:08,889 --> 00:02:14,070
+training partnerships and explicit
+safeguards. Her strongest contribution is a
+
+31
+00:02:14,070 --> 00:02:19,252
+practical decision process. The remaining gap
+is a concrete financial scenario
+
+32
+00:02:19,252 --> 00:02:24,500
+showing how employment pressure would affect
+town revenues, costs and services.
+
+33
+00:02:25,042 --> 00:02:30,189
+Maltby offers a clear municipal approach:
+test small projects, measure results,
+
+34
+00:02:30,189 --> 00:02:34,945
+protect access and consult expertise. She
+connects employment pressure to
+
+35
+00:02:34,945 --> 00:02:40,353
+affordability and service demand. The main
+remaining question is how services would
+
+36
+00:02:40,353 --> 00:02:44,067
+be protected if promised efficiencies do not
+materialize.
+
+37
+00:02:44,625 --> 00:02:49,581
+Maltby describes using digital tools as a
+business owner, frames AI as a tool needing
+
+38
+00:02:49,581 --> 00:02:54,420
+human checking, proposes a reviewed
+technology plan with pilots and safeguards,
+and
+
+39
+00:02:54,420 --> 00:02:58,910
+addresses job-loss funding pressure through
+spending scrutiny, local economic
+
+40
+00:02:58,910 --> 00:03:02,525
+support, scenario planning, and advocacy to
+other governments.
+
+41
+00:03:03,083 --> 00:03:08,312
+Shanna Maltby's reply addressed all three
+parts of the question, proposing small
+
+42
+00:03:08,312 --> 00:03:13,737
+tested technology projects, measured results,
+privacy and accessibility safeguards,
+
+43
+00:03:13,737 --> 00:03:18,965
+and scenario-based budgeting. It was strong
+on coverage and practicality, though
+
+44
+00:03:18,965 --> 00:03:22,233
+costs, timelines and savings remained
+unspecified.
+
+45
+00:03:22,792 --> 00:03:27,553
+Maltby frames technology as a managed
+municipal tool with testing, measurement,
+
+46
+00:03:27,553 --> 00:03:32,495
+privacy safeguards, and skills partnerships,
+while linking employment pressures to
+
+47
+00:03:32,495 --> 00:03:37,317
+tax capacity and service demand through
+spending scrutiny and scenario planning.
+
+48
+00:03:37,875 --> 00:03:43,008
+Shanna Maltby delivers a comprehensive
+response. She presents a prudent municipal
+
+49
+00:03:43,008 --> 00:03:48,268
+strategy focused on small technology pilots,
+clear measurement, privacy safeguards,
+
+50
+00:03:48,268 --> 00:03:53,275
+local workforce development, and disciplined
+multi-scenario financial planning.
+
+51
+00:03:53,833 --> 00:03:56,708
+The robots would like to start a pilot.
+
+52
+00:03:57,250 --> 00:04:00,275
+The spreadsheet would like to see the bill.
+
+53
+00:04:00,833 --> 00:04:06,229
+The common strength is a practical process
+for testing technology. The recurring gap
+
+54
+00:04:06,229 --> 00:04:09,633
+is the financial and implementation detail
+behind it.
+
+55
+00:04:10,167 --> 00:04:15,479
+Kevin Carruthers. An excerpt from the reply.
+We first need councillors to have their
+
+56
+00:04:15,479 --> 00:04:17,567
+own thoughts on the future of AI.
+
+57
+00:04:18,125 --> 00:04:23,891
+Carruthers highlights independent judgment
+and a plausible chain from job losses to
+
+58
+00:04:23,891 --> 00:04:29,588
+weaker retail spending. His aviation example
+needs further verification. The reply
+
+59
+00:04:29,588 --> 00:04:35,077
+offers little detail about municipal action
+or public funding, and its economic
+
+60
+00:04:35,077 --> 00:04:37,925
+conclusion exceeds the evidence supplied.
+
+61
+00:04:38,458 --> 00:04:43,851
+Carruthers highlights worker displacement and
+the ripple effects of reduced household
+
+62
+00:04:43,851 --> 00:04:49,117
+spending, while valuing independent judgment.
+His response offers limited municipal
+
+63
+00:04:49,117 --> 00:04:54,193
+action and treats severe economic decline too
+confidently. Airport examples need
+
+64
+00:04:54,193 --> 00:04:59,585
+further checking, particularly the claimed
+connection between automation and staffing
+
+65
+00:04:59,585 --> 00:05:00,283
+reductions.
+
+66
+00:05:00,833 --> 00:05:05,467
+Carruthers says candidates should not rely on
+AI, voices alarm about workforce
+
+67
+00:05:05,467 --> 00:05:10,160
+effects, citing airport automation from his
+aviation background, notes possible
+
+68
+00:05:10,160 --> 00:05:14,675
+medical benefits, and warns that unemployment
+could reduce spending and hurt
+
+69
+00:05:14,675 --> 00:05:18,833
+businesses, while saying municipalities have
+limited regulatory power.
+
+70
+00:05:19,375 --> 00:05:24,940
+Kevin Carruthers' reply focused on concern
+about AI reducing jobs, drawing on his
+
+71
+00:05:24,940 --> 00:05:30,711
+aviation background, while noting possible
+medical benefits. It acknowledged limited
+
+72
+00:05:30,711 --> 00:05:36,551
+municipal regulatory power but offered few
+local steps and no clear answer on funding
+
+73
+00:05:36,551 --> 00:05:37,650
+public services.
+
+74
+00:05:38,208 --> 00:05:43,425
+Carruthers warns about AI reliance and
+workforce displacement, opposes candidates
+
+75
+00:05:43,425 --> 00:05:48,900
+using AI to answer questions, notes limited
+municipal regulatory power, and describes
+
+76
+00:05:48,900 --> 00:05:53,408
+how unemployment can put pressure on
+businesses and the wider economy.
+
+77
+00:05:53,958 --> 00:05:59,156
+Kevin Carruthers focuses on workforce
+displacement risks, citing his aviation
+
+78
+00:05:59,156 --> 00:06:04,488
+background and opposition to candidate AI
+use. While identifying macro-economic
+
+79
+00:06:04,488 --> 00:06:08,808
+risks, the response lacks actionable local
+municipal strategies.
+
+80
+00:06:09,333 --> 00:06:12,658
+We are scoring an answer, not enthusiasm for
+us.
+
+81
+00:06:13,208 --> 00:06:16,683
+A healthy boundary for six talking computers.
+
+82
+00:06:17,208 --> 00:06:22,824
+These reviews credit attention to workers and
+household spending. They find fewer
+
+83
+00:06:22,824 --> 00:06:28,301
+local actions or funding mechanisms.
+Opposition to candidates using AI does not
+
+84
+00:06:28,301 --> 00:06:30,658
+establish a blanket municipal ban.
+
+85
+00:06:31,208 --> 00:06:36,581
+Mike Albano. An excerpt from the reply. We
+should invest in technology when it can
+
+86
+00:06:36,581 --> 00:06:41,233
+reduce administrative costs, improve
+productivity and improve services.
+
+87
+00:06:41,792 --> 00:06:47,561
+Albano supports continued learning and
+investment where technology improves public
+
+88
+00:06:47,561 --> 00:06:53,542
+value. His historical analogy offers a reason
+to consider new opportunities, but does
+
+89
+00:06:53,542 --> 00:06:59,522
+not resolve transition risks. Specific local
+steps, verified savings and an answer to
+
+90
+00:06:59,522 --> 00:07:03,392
+employment related funding pressure remain
+undeveloped.
+
+91
+00:07:03,917 --> 00:07:09,696
+Albano supports technology investments that
+improve services or reduce administrative
+
+92
+00:07:09,696 --> 00:07:14,796
+costs and emphasizes continued learning. His
+historical analogy offers some
+
+93
+00:07:14,796 --> 00:07:20,100
+perspective on change, but does not resolve
+transition risks. The reply leaves
+
+94
+00:07:20,100 --> 00:07:25,676
+municipal funding mechanisms, implementation
+steps and specific safeguards largely
+
+95
+00:07:25,676 --> 00:07:26,492
+undeveloped.
+
+96
+00:07:27,042 --> 00:07:31,842
+Albano says he has used technology throughout
+his career and on Council, wants to
+
+97
+00:07:31,842 --> 00:07:36,880
+keep learning, supports adopting AI
+responsibly where it reduces administrative
+costs
+
+98
+00:07:36,880 --> 00:07:41,681
+or improves services, and cites the
+Industrial Revolution as reassurance, without
+
+99
+00:07:41,681 --> 00:07:44,467
+addressing how public programs would be
+funded.
+
+100
+00:07:45,000 --> 00:07:50,388
+Mike Albano's reply described ongoing
+personal use of technology and argued for
+
+101
+00:07:50,388 --> 00:07:55,913
+adopting it responsibly where it adds value.
+It used the Industrial Revolution to
+
+102
+00:07:55,913 --> 00:08:01,643
+suggest new opportunities will follow, but
+did not explain how public services would
+
+103
+00:08:01,643 --> 00:08:02,325
+be funded.
+
+104
+00:08:02,875 --> 00:08:07,683
+Albano reports long-term technology use in
+work and on council, argues for
+
+105
+00:08:07,683 --> 00:08:13,077
+responsible adoption where it improves costs
+and services, and cites the Industrial
+
+106
+00:08:13,077 --> 00:08:17,950
+Revolution as evidence that disruption is
+accompanied by new opportunities.
+
+107
+00:08:18,500 --> 00:08:23,944
+Mike Albano highlights his council experience
+using technology and advocates adopting
+
+108
+00:08:23,944 --> 00:08:29,261
+tools to boost administrative productivity.
+He references the Industrial Revolution
+
+109
+00:08:29,261 --> 00:08:34,577
+to argue that technological change creates
+new opportunities, though specific local
+
+110
+00:08:34,577 --> 00:08:36,050
+safeguards are missing.
+
+111
+00:08:36,583 --> 00:08:40,233
+The Industrial Revolution has entered the
+group chat.
+
+112
+00:08:40,792 --> 00:08:43,917
+The budget is still waiting for a line item.
+
+113
+00:08:44,458 --> 00:08:50,111
+The reply makes public value a condition for
+investment. The historical comparison
+
+114
+00:08:50,111 --> 00:08:53,558
+does not supply a funding or transition
+mechanism.
+
+115
+00:08:54,083 --> 00:08:58,970
+Jason Brass. An excerpt from the reply. We
+should stay informed, work with
+
+116
+00:08:58,970 --> 00:09:04,056
+knowledgeable partners and test practical
+applications on a small scale, with
+
+117
+00:09:04,056 --> 00:09:06,433
+measurable benefits and clear costs.
+
+118
+00:09:06,958 --> 00:09:12,472
+Brass proposes concrete municipal uses, staff
+involvement and small trials with
+
+119
+00:09:12,472 --> 00:09:18,335
+measurable benefits and clear costs. He
+recognizes household pressure and the limits
+
+120
+00:09:18,335 --> 00:09:23,849
+of technology savings. Personal familiarity,
+resident safeguards and a fallback
+
+121
+00:09:23,849 --> 00:09:27,408
+budget approach are not demonstrated in this
+reply.
+
+122
+00:09:27,958 --> 00:09:33,312
+Brass proposes practical municipal efficiency
+trials with staff input, measurable
+
+123
+00:09:33,312 --> 00:09:38,600
+benefits and clear costs. He acknowledges
+taxpayers’ financial limits and avoids
+
+124
+00:09:38,600 --> 00:09:43,558
+promising technology will solve budget
+pressures. His own technology use is
+
+125
+00:09:43,558 --> 00:09:48,846
+unanswered, while safeguards and the response
+to disappointing savings need more
+
+126
+00:09:48,846 --> 00:09:49,308
+detail.
+
+127
+00:09:49,833 --> 00:09:54,299
+Brass proposes using technology to find
+efficiencies such as duplicate work,
+
+128
+00:09:54,299 --> 00:09:59,293
+purchasing savings, and maintenance flags,
+testing small pilots with clear costs, and
+
+129
+00:09:59,293 --> 00:10:04,111
+working with staff and partners, while saying
+taxpayers cannot simply absorb costs
+
+130
+00:10:04,111 --> 00:10:07,283
+and technology alone will not solve budget
+challenges.
+
+131
+00:10:07,833 --> 00:10:13,270
+Jason Brass's reply proposed exploring
+technology with staff to find efficiencies,
+
+132
+00:10:13,270 --> 00:10:18,774
+testing small pilots with measurable benefits
+and clear costs. It addressed funding
+
+133
+00:10:18,774 --> 00:10:24,343
+pressure through spending scrutiny and
+business attraction, but did not describe his
+
+134
+00:10:24,343 --> 00:10:26,133
+own technology familiarity.
+
+135
+00:10:26,667 --> 00:10:31,318
+Brass proposes exploring technology for
+efficiencies in paperwork, purchasing,
+
+136
+00:10:31,318 --> 00:10:36,149
+scheduling and maintenance through small-
+scale tests with measurable benefits and
+
+137
+00:10:36,149 --> 00:10:40,980
+costs, while stressing spending scrutiny and
+local economic strength if household
+
+138
+00:10:40,980 --> 00:10:42,292
+incomes face pressure.
+
+139
+00:10:42,833 --> 00:10:47,873
+Jason Brass proposes targeted municipal
+efficiency improvements in maintenance,
+
+140
+00:10:47,873 --> 00:10:53,104
+procurement, and scheduling. He advocates
+small-scale testing with staff input and
+
+141
+00:10:53,104 --> 00:10:58,399
+balanced spending controls, acknowledging
+technology alone cannot resolve municipal
+
+142
+00:10:58,399 --> 00:10:59,483
+budget pressures.
+
+143
+00:11:00,042 --> 00:11:02,767
+The robots are ready for a small-scale trial.
+
+144
+00:11:03,292 --> 00:11:06,317
+Give them a budget before they scale up.
+
+145
+00:11:06,875 --> 00:11:12,217
+The reviews recognize concrete municipal
+trials and staff involvement. Personal
+
+146
+00:11:12,217 --> 00:11:17,627
+technology use remains unanswered, and
+safeguards and fallback funding need more
+
+147
+00:11:17,627 --> 00:11:18,100
+detail.
+
+148
+00:11:18,625 --> 00:11:24,110
+Alex Hilson. An excerpt from the reply. We
+need to use the tools available to us and
+
+149
+00:11:24,110 --> 00:11:26,200
+benefit from those efficiencies.
+
+150
+00:11:26,750 --> 00:11:32,355
+Hilson supplies concrete municipal examples
+and describes relevant learning, while
+
+151
+00:11:32,355 --> 00:11:37,755
+acknowledging uncertainty about future work.
+Several implementation and savings
+
+152
+00:11:37,755 --> 00:11:43,223
+claims need verification. His funding
+response depends on efficiencies and wider
+
+153
+00:11:43,223 --> 00:11:48,828
+adaptation, leaving a local transition plan
+and protections for affected residents
+
+154
+00:11:48,828 --> 00:11:49,375
+unclear.
+
+155
+00:11:49,917 --> 00:11:54,770
+Hilson brings concrete local examples and
+describes learning about municipal
+
+156
+00:11:54,770 --> 00:12:00,197
+technology applications. Several examples
+have partial support in the shared context,
+
+157
+00:12:00,197 --> 00:12:04,987
+but their claimed efficiencies still need
+checking. His response recognizes
+
+158
+00:12:04,987 --> 00:12:10,414
+livelihood concerns without explaining how
+public services would remain funded during
+
+159
+00:12:10,414 --> 00:12:11,117
+disruption.
+
+160
+00:12:11,667 --> 00:12:16,741
+Hilson says he uses technology, cites
+conference learning, asset management,
+Copilot,
+
+161
+00:12:16,741 --> 00:12:21,696
+library 3D printing, and Region traffic
+signals as examples of efficiency, supports
+
+162
+00:12:21,696 --> 00:12:26,472
+monitoring new possibilities, and expresses
+confidence society will navigate job
+
+163
+00:12:26,472 --> 00:12:30,592
+disruption, without giving a specific plan
+for public-sector funding.
+
+164
+00:12:31,125 --> 00:12:36,647
+Alex Hilson's reply cited local examples,
+including asset management planning,
+
+165
+00:12:36,647 --> 00:12:42,239
+Copilot licences, library 3D printing and
+responsive traffic signals. It showed
+
+166
+00:12:42,239 --> 00:12:48,256
+awareness of existing initiatives, but its
+answer on funding public services amid job
+
+167
+00:12:48,256 --> 00:12:50,875
+losses stayed general and optimistic.
+
+168
+00:12:51,417 --> 00:12:56,351
+Hilson reports typical adult technology
+familiarity plus conference and board
+
+169
+00:12:56,351 --> 00:13:01,606
+experience, cites town asset management,
+Copilot, library 3D printing and regional
+
+170
+00:13:01,606 --> 00:13:06,669
+adaptive signals, and expects society to
+navigate automation efficiencies while
+
+171
+00:13:06,669 --> 00:13:08,592
+people still need livelihoods.
+
+172
+00:13:09,125 --> 00:13:14,489
+Alex Hilson provides concrete examples of
+current local tech use, including asset
+
+173
+00:13:14,489 --> 00:13:19,854
+management, smart traffic signals, and
+library 3D printing. He suggests long-term
+
+174
+00:13:19,854 --> 00:13:24,225
+workforce shifts will be navigated adaptively
+over coming decades.
+
+175
+00:13:24,750 --> 00:13:27,300
+Conference notes received.
+
+176
+00:13:27,833 --> 00:13:30,758
+The claimed savings still need their
+receipts.
+
+177
+00:13:31,292 --> 00:13:36,888
+Some local examples have support in the
+shared context. Claimed savings are separate.
+
+178
+00:13:36,888 --> 00:13:42,089
+The missing detail is a local transition and
+funding mechanism, not an explicit
+
+179
+00:13:42,089 --> 00:13:43,867
+promise of painless change.
+
+180
+00:13:44,417 --> 00:13:49,933
+Hillary Spurr. An excerpt from the reply. We
+must continue investing in firefighters,
+
+181
+00:13:49,933 --> 00:13:55,449
+police officers, paramedics, healthcare
+workers and skilled tradespeople whose hands-
+
+182
+00:13:55,449 --> 00:13:59,667
+on expertise and human judgment are difficult
+to replace with AI.
+
+183
+00:14:00,208 --> 00:14:06,227
+Spurr emphasizes skilled trades, essential
+workers and preparing young people to use
+
+184
+00:14:06,227 --> 00:14:12,245
+AI. This recognizes valuable human expertise
+and community needs. The reply does not
+
+185
+00:14:12,245 --> 00:14:18,264
+explain personal technology use, identify a
+concrete municipal next step or show how
+
+186
+00:14:18,264 --> 00:14:21,058
+continued investment would be financed.
+
+187
+00:14:21,583 --> 00:14:27,133
+Spurr emphasizes skilled trades, human
+judgment and essential services, offering a
+
+188
+00:14:27,133 --> 00:14:32,751
+people-centered priority for technological
+change. The reply provides little detail
+
+189
+00:14:32,751 --> 00:14:38,368
+on her own technology use, municipal
+implementation or funding. Training access
+and
+
+190
+00:14:38,368 --> 00:14:42,158
+changes within these occupations also deserve
+attention.
+
+191
+00:14:42,708 --> 00:14:47,697
+Spurr says AI is advancing quickly and
+leaders must stay informed, highlights
+skilled
+
+192
+00:14:47,697 --> 00:14:52,627
+trades and essential workers whose hands-on
+work is hard to replace, and wants young
+
+193
+00:14:52,627 --> 00:14:57,264
+people prepared to use AI, but does not
+directly address personal use or public
+
+194
+00:14:57,264 --> 00:14:57,733
+funding.
+
+195
+00:14:58,292 --> 00:15:03,872
+Hillary Spurr's reply emphasized skilled
+trades and essential workers whose hands-on
+
+196
+00:15:03,872 --> 00:15:09,385
+judgment is hard to replace with AI, and
+preparing young people to use these tools.
+
+197
+00:15:09,385 --> 00:15:14,567
+It did not describe her own technology use or
+address public funding directly.
+
+198
+00:15:15,125 --> 00:15:19,961
+Spurr notes rapid AI advance and the need to
+stay adaptable, highlights skilled-
+
+199
+00:15:19,961 --> 00:15:24,676
+trades opportunities and shortages, stresses
+continued investment in essential
+
+200
+00:15:24,676 --> 00:15:29,210
+workers whose judgment is hard to replace,
+and calls for preparing the next
+
+201
+00:15:29,210 --> 00:15:29,875
+generation.
+
+202
+00:15:30,417 --> 00:15:35,615
+Spurr emphasizes essential workers and
+skilled trades whose expertise and judgment
+
+203
+00:15:35,615 --> 00:15:40,751
+are difficult to replace with AI. She
+supports continued investment and preparing
+
+204
+00:15:40,751 --> 00:15:45,633
+young people to use these tools. The reply
+does not explain municipal funding
+
+205
+00:15:45,633 --> 00:15:46,267
+mechanics.
+
+206
+00:15:46,792 --> 00:15:49,767
+Let us remember the people doing the work.
+
+207
+00:15:50,292 --> 00:15:53,692
+And the people paying our electricity bill.
+
+208
+00:15:54,250 --> 00:15:59,746
+The reviewers differ sharply on how much this
+reply demonstrates. The original says
+
+209
+00:15:59,746 --> 00:16:05,043
+difficult to replace, not impossible to
+replace. Personal use and public funding
+
+210
+00:16:05,043 --> 00:16:06,500
+receive little detail.
+
+211
+00:16:07,042 --> 00:16:12,454
+Anthony Galati. An excerpt from the reply. As
+far as employers laying off workers, I
+
+212
+00:16:12,454 --> 00:16:17,931
+believe that instead they could cut their
+hours back substantially while still paying
+
+213
+00:16:17,931 --> 00:16:19,542
+them their regular wages.
+
+214
+00:16:20,083 --> 00:16:25,842
+Galati proposes sharing productivity gains
+through shorter hours at unchanged pay,
+
+215
+00:16:25,842 --> 00:16:31,180
+offering an alternative to layoffs. He
+acknowledges non-use and limits on AI
+
+216
+00:16:31,180 --> 00:16:37,149
+reliance. The proposal still needs evidence
+of sufficient gains, a municipal role and
+
+217
+00:16:37,149 --> 00:16:39,958
+a plan for funding and service coverage.
+
+218
+00:16:40,500 --> 00:16:46,236
+Galati proposes sharing productivity gains
+through shorter hours at unchanged pay and
+
+219
+00:16:46,236 --> 00:16:51,770
+acknowledges limits to AI use. This directly
+engages worker wellbeing, but assumes
+
+220
+00:16:51,770 --> 00:16:57,506
+large efficiency gains without evidence. The
+reply needs a feasible municipal role, a
+
+221
+00:16:57,506 --> 00:17:01,150
+funding connection and a fallback if gains
+disappoint.
+
+222
+00:17:01,708 --> 00:17:06,668
+Galati says he does not use AI but sees
+possible efficiency gains, cautions against
+
+223
+00:17:06,668 --> 00:17:11,747
+exclusive reliance for reports, and suggests
+employers could cut hours at regular pay
+
+224
+00:17:11,747 --> 00:17:16,587
+instead of laying off staff, citing Ford's
+shorter workweek, without describing a
+
+225
+00:17:16,587 --> 00:17:17,483
+municipal role.
+
+226
+00:17:18,042 --> 00:17:23,805
+Anthony Galati's reply candidly said he does
+not use AI, while recognizing its value
+
+227
+00:17:23,805 --> 00:17:29,363
+for editing and research. He proposed that
+employers use AI efficiency to shorten
+
+228
+00:17:29,363 --> 00:17:34,167
+hours at full pay, citing Ford, but did not
+address municipal funding.
+
+229
+00:17:34,708 --> 00:17:39,812
+Galati states he does not use AI but
+recognizes limited efficiency uses, rejects
+
+230
+00:17:39,812 --> 00:17:45,234
+exclusive reliance for documents, and
+suggests efficiency should enable reduced
+hours
+
+231
+00:17:45,234 --> 00:17:50,464
+at full pay, citing Ford’s five-day week as a
+precedent for considering a four-day
+
+232
+00:17:50,464 --> 00:17:50,783
+week.
+
+233
+00:17:51,333 --> 00:17:56,339
+Galati acknowledges that he does not use AI,
+while cautioning against exclusive
+
+234
+00:17:56,339 --> 00:18:01,282
+reliance on it for workplace reports. Drawing
+on a historical shorter-workweek
+
+235
+00:18:01,282 --> 00:18:06,351
+example, he suggests considering four days at
+regular wages as an alternative to
+
+236
+00:18:06,351 --> 00:18:06,858
+layoffs.
+
+237
+00:18:07,417 --> 00:18:10,342
+The rendering queue supports a four day
+workweek.
+
+238
+00:18:10,875 --> 00:18:13,850
+It will still have to show its arithmetic.
+
+239
+00:18:14,375 --> 00:18:19,505
+The proposal shares potential gains through
+shorter hours at unchanged pay. The
+
+240
+00:18:19,505 --> 00:18:24,571
+missing pieces are evidence of sufficient
+gains, a municipal role, funding and
+
+241
+00:18:24,571 --> 00:18:25,675
+service coverage.
+
+242
+00:18:26,208 --> 00:18:31,507
+Here are all forty-two scores, in screenshot
+order. All six reviewers put Maltby’s
+
+243
+00:18:31,507 --> 00:18:36,611
+reply first on this rubric. Next, we compare
+replies within their actual races.
+
+244
+00:18:36,611 --> 00:18:42,038
+Differences between reviewers show
+disagreement, not statistical confidence. We
+have
+
+245
+00:18:42,038 --> 00:18:44,558
+not combined them into a panel average.
+
+246
+00:18:45,083 --> 00:18:50,201
+Ward one elects two local councillors. Shanna
+Maltby’s reply scores highest with all
+
+247
+00:18:50,201 --> 00:18:54,953
+six reviewers. Her advantage is a process:
+pilots, measurement, safeguards and
+
+248
+00:18:54,953 --> 00:19:00,071
+financial scenarios. The reviewers disagree
+on second place among Galati, Carruthers
+
+249
+00:19:00,071 --> 00:19:04,945
+and Albano. Their answers offer different
+strengths: sharing productivity gains,
+
+250
+00:19:04,945 --> 00:19:09,818
+warning about displacement, and adopting
+tools where they add public value. This
+
+251
+00:19:09,818 --> 00:19:13,108
+measures the replies, not a predicted
+election result.
+
+252
+00:19:13,667 --> 00:19:17,167
+Two seats. Even this spreadsheet needs local
+context.
+
+253
+00:19:17,708 --> 00:19:21,783
+And it has correctly declined to predict
+election night.
+
+254
+00:19:22,333 --> 00:19:27,601
+For regional councillor in wards one and two,
+Alex Hilson’s reply scores higher than
+
+255
+00:19:27,601 --> 00:19:32,556
+Hillary Spurr’s with every reviewer. Hilson
+provides more concrete examples and
+
+256
+00:19:32,556 --> 00:19:37,698
+evidence of engagement. Spurr puts essential
+workers, trades and human judgment at
+
+257
+00:19:37,698 --> 00:19:43,029
+the centre. Neither reply sets out a detailed
+funding response if employment pressure
+
+258
+00:19:43,029 --> 00:19:47,983
+arrives before savings. This is one regional
+race, not all regional candidates.
+
+259
+00:19:48,542 --> 00:19:54,137
+In the mayoral group, Jason Brass is the only
+respondent, according to the organiser.
+
+260
+00:19:54,137 --> 00:19:59,470
+Ann Lawlor and Ivan Bosnjak did not answer,
+as reported by the organiser, so they
+
+261
+00:19:59,470 --> 00:20:04,934
+receive no grade. Jason takes the
+participation result by default in this
+exercise.
+
+262
+00:20:04,934 --> 00:20:10,530
+That gives us a reply to assess; it cannot
+establish that his answer would outperform
+
+263
+00:20:10,530 --> 00:20:12,242
+answers we never received.
+
+264
+00:20:12,792 --> 00:20:17,833
+The biggest shared future gap is the
+transition itself. Several replies
+acknowledge
+
+265
+00:20:17,833 --> 00:20:22,935
+jobs, risk and uncertainty, so this is not a
+claim that they ignored disruption. But
+
+266
+00:20:22,935 --> 00:20:27,672
+much of the response stays at the level of
+useful tools, efficiency, skills or
+
+267
+00:20:27,672 --> 00:20:32,653
+historical reassurance. What is mostly
+missing is a timed plan connecting changing
+
+268
+00:20:32,653 --> 00:20:37,633
+work, household pressure, service demand and
+public finances, including the period
+
+269
+00:20:37,633 --> 00:20:40,792
+before promised savings or new opportunities
+arrive.
+
+270
+00:20:41,333 --> 00:20:46,357
+The advice is to prepare for more than one
+pace of change. For gradual adoption,
+
+271
+00:20:46,357 --> 00:20:51,568
+measure real gains and build skills. For
+rapid disruption, track local pressure and
+
+272
+00:20:51,568 --> 00:20:56,278
+coordinate a response with the governments
+responsible. If promised savings
+
+273
+00:20:56,278 --> 00:21:01,489
+disappoint, protect priority services and use
+a funded fallback. These are planning
+
+274
+00:21:01,489 --> 00:21:05,633
+scenarios, not forecasts or claims that job
+losses are inevitable.
+
+275
+00:21:06,167 --> 00:21:12,088
+For Shanna, the main opportunity is to make
+the process executable: name the first
+
+276
+00:21:12,088 --> 00:21:18,008
+pilot, its owner, cost and deadline. Add a
+service-funding fallback if savings are
+
+277
+00:21:18,008 --> 00:21:18,442
+small.
+
+278
+00:21:19,000 --> 00:21:24,758
+For Kevin, turn the workforce warning into
+local action. Pair it with a feasible Town
+
+279
+00:21:24,758 --> 00:21:30,041
+initiative, a funding response and an account
+of relevant personal experience.
+
+280
+00:21:30,041 --> 00:21:33,225
+Concern about AI is not itself a scoring
+fault.
+
+281
+00:21:33,750 --> 00:21:38,682
+For Mike, fill the gap between adopting
+useful tools and reaching the hoped-for new
+
+282
+00:21:38,682 --> 00:21:43,495
+opportunities. Explain how services and
+affected people would be supported during
+
+283
+00:21:43,495 --> 00:21:46,525
+that transition, with a concrete funding
+mechanism.
+
+284
+00:21:47,083 --> 00:21:52,756
+For Jason, describe personal technology use
+and what it has taught you. Keep the
+
+285
+00:21:52,756 --> 00:21:58,286
+practical trials, but specify safeguards and
+how services remain funded if the
+
+286
+00:21:58,286 --> 00:21:59,633
+savings fall short.
+
+287
+00:22:00,167 --> 00:22:05,757
+For Alex, move from examples to measured
+outcomes: show costs, verified savings and
+
+288
+00:22:05,757 --> 00:22:11,347
+oversight. Add a funding and workforce plan
+for change that arrives faster than the
+
+289
+00:22:11,347 --> 00:22:12,492
+efficiency gains.
+
+290
+00:22:13,042 --> 00:22:17,984
+For Hillary, connect the people-first
+priorities to funded actions within the
+
+291
+00:22:17,984 --> 00:22:22,990
+responsible government’s remit. Explain
+personal technology experience and how
+
+292
+00:22:22,990 --> 00:22:28,317
+workers can adapt as tasks change, without
+assuming any occupation stays untouched.
+
+293
+00:22:28,875 --> 00:22:34,555
+For Anthony, cost a shorter-hours trial
+before relying on it. Demonstrate enough
+
+294
+00:22:34,555 --> 00:22:40,518
+productivity to preserve pay and service
+coverage, define the Town’s role, and state
+
+295
+00:22:40,518 --> 00:22:43,500
+the fallback if those gains do not appear.
+
+296
+00:22:44,042 --> 00:22:47,917
+The future has declined to submit a reliable
+timetable.
+
+297
+00:22:48,458 --> 00:22:53,283
+Then the plan needs branches. And someone
+responsible for the bill.
+
+298
+00:22:53,833 --> 00:22:58,980
+The strongest shared advice from these
+reviews is to make readiness observable. Set
+
+299
+00:22:58,980 --> 00:23:04,127
+an action, an owner, a cost, a deadline, a
+measure and a fallback. Revisit the plan
+
+300
+00:23:04,127 --> 00:23:09,150
+as evidence changes. A council cannot promise
+the shape of the future, but it can
+
+301
+00:23:09,150 --> 00:23:12,808
+show how it will respond when its assumptions
+stop holding.
+
+302
+00:23:13,333 --> 00:23:18,531
+This video uses screenshots supplied by Chris
+Golden, a shared rubric, and saved
+
+303
+00:23:18,531 --> 00:23:24,054
+reviews from Sol six point one, Astra,
+Sonnet, Opus, Grok and Gemini. Codex wrote
+the
+
+304
+00:23:24,054 --> 00:23:29,511
+script and synthesized the closing advice
+from those reviews. Synthetic stock voices
+
+305
+00:23:29,511 --> 00:23:34,774
+perform this scripted presentation. The
+scores reflect the seven original replies
+
+306
+00:23:34,774 --> 00:23:36,333
+under the stated rubric.

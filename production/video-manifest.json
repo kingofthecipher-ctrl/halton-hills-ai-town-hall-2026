@@ -1,0 +1,16 @@
+{
+  "filename": "ai-town-hall-full-episode.mp4",
+  "sha256": "5987af708dda74657e43496061d7f9d558c7552c4ce03cd1143380afdc322ac0",
+  "bytes": 56755667,
+  "duration_seconds": 1416.89502,
+  "release_download": "https://github.com/kingofthecipher-ctrl/halton-hills-ai-town-hall-2026/releases/download/v1.0.0/ai-town-hall-full-episode.mp4",
+  "video": "1920×1080 H.264, 24 fps",
+  "audio": "Kokoro stock voices; AAC",
+  "embedded_english_subtitles": true,
+  "embedded_chapters": 14,
+  "script_author": "Codex (AI-written script, banter and synthesis)",
+  "source_record_date": "2026-10-15",
+  "render_source_sha256": "477db51bc0f2ef3e49447da2176387cd03c7bbda0cb0ac5a4fcf1b434482bc16",
+  "audio_source_sha256": "86576831864891dbfb90991f31ab4cd8824f549ef8389f00ee5099d44c9ca072",
+  "portable_source_note": "Published code changes local paths and model lookup for this repository; the original rendered video is identified by the checksum above."
+}

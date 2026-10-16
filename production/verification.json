@@ -1,0 +1,56 @@
+{
+  "video_sha256": "5987af708dda74657e43496061d7f9d558c7552c4ce03cd1143380afdc322ac0",
+  "duration_seconds": 1416.89502,
+  "scene_count": 98,
+  "review_scene_count": 42,
+  "caption_count": 306,
+  "integer_levels_checked": 252,
+  "narration_hashes_checked": 98,
+  "render_input_hashes_checked": 98,
+  "review_narratives_unchanged": true,
+  "screenshots_and_portrait_hashes_verified": true,
+  "race_tables_and_leading_score_claims_verified": true,
+  "new_questions_or_model_reviews": false,
+  "aac_packet_count": 66364,
+  "robot_animation_checks": [
+    {
+      "reviewer": "Sol 6.1",
+      "open_eye_pixels": 915,
+      "blink_eye_pixels": 282,
+      "actual_encoded_blink_verified": true
+    },
+    {
+      "reviewer": "Astra",
+      "open_eye_pixels": 942,
+      "blink_eye_pixels": 278,
+      "actual_encoded_blink_verified": true
+    },
+    {
+      "reviewer": "Sonnet 5.5",
+      "open_eye_pixels": 843,
+      "blink_eye_pixels": 208,
+      "actual_encoded_blink_verified": true
+    },
+    {
+      "reviewer": "Opus 5.5",
+      "open_eye_pixels": 1242,
+      "blink_eye_pixels": 276,
+      "actual_encoded_blink_verified": true
+    },
+    {
+      "reviewer": "Grok",
+      "open_eye_pixels": 1034,
+      "blink_eye_pixels": 210,
+      "actual_encoded_blink_verified": true
+    },
+    {
+      "reviewer": "Gemini 2.5 Flash",
+      "open_eye_pixels": 939,
+      "blink_eye_pixels": 277,
+      "actual_encoded_blink_verified": true
+    }
+  ],
+  "full_decode_passed": true,
+  "mean_volume_dbfs": -18.3,
+  "peak_volume_dbfs": -0.8
+}

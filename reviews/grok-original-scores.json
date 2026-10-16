@@ -1,0 +1,281 @@
+{
+  "reviewer": "Grok",
+  "model": "User-provided Grok review; model version/mode not supplied",
+  "rubric_version": "v2",
+  "date_received": "2026-10-15",
+  "provenance": "Imported verbatim from user-provided output. User manually supplied the original screenshots to Grok.",
+  "source_sha256": "342e49e3788ef00e181d469b1289c6082cee049cf12595642fd6a80c1abfc26e",
+  "arithmetic_verified": true,
+  "rubric_compliant": false,
+  "scores": [
+    {
+      "candidate": "Shanna Maltby",
+      "levels": [
+        4.0,
+        3.5,
+        3.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "points": [
+        20.0,
+        17.5,
+        11.25,
+        15.0,
+        15.0,
+        10.0
+      ],
+      "total": 88.75,
+      "strongest_point": "Small-project testing with measurement before major spending, plus explicit non-digital access.",
+      "biggest_gap": "Specific four-year municipal technology priorities or quantified local capacity.",
+      "follow_up": "What criteria would define a successful small technology pilot in Ward 1 services, and what happens if savings do not appear?",
+      "confidence": "high — full visible text is clear and detailed.",
+      "narration": "Maltby frames technology as a managed municipal tool with testing, measurement, privacy safeguards, and skills partnerships, while linking employment pressures to tax capacity and service demand through spending scrutiny and scenario planning.",
+      "narration_word_count": 32,
+      "narration_within_requested_length": false,
+      "criterion_details": [
+        "| 1 Answers | 4 | 20.00 | “Your funding question is a serious one. If people lose employment or income…” | Directly covers adaptation, personal comfort/expertise limits, and funding channels. |",
+        "| 2 Future | 3.5 → 17.50 | “I see AI as a tool in a toolbox… We still have a responsibility to check its work” | Distinguishes technologies, avoids certainty, notes benefits and reliance risks; short-term municipal focus is realistic. |",
+        "| 3 Preparedness | 3 | 11.25 | “As a business owner and founder of Earth Credit Canada… A councillor must be willing to learn” | Experience claimed and learning stance shown; depth of technical knowledge not detailed. |",
+        "| 4 Practical | 4 | 15.00 | “advocate for a practical technology plan… test it through small projects and measure the results” | Clear municipal steps, evaluation, partnerships, and resident access. |",
+        "| 5 Jobs/funding | 3 | 15.00 | “scrutinize spending, use technology where it delivers measurable savings… plan for different financial scenarios” | Addresses tax/service channels and local levers without overclaiming. |",
+        "| 6 Blind spots | 4 | 10.00 | “Privacy, cybersecurity, human oversight and access for residents who aren’t comfortable online” | Explicit safeguards relevant to proposed tools. |"
+      ],
+      "rubric_violations": [
+        {
+          "criterion": 2,
+          "level": 3.5
+        }
+      ],
+      "score_status": "non-integer level; correction needed"
+    },
+    {
+      "candidate": "Kevin Carruthers",
+      "levels": [
+        2.0,
+        2.0,
+        2.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "points": [
+        10.0,
+        10.0,
+        7.5,
+        3.75,
+        10.0,
+        5.0
+      ],
+      "total": 46.25,
+      "strongest_point": "Explicit caution that municipalities have limited direct regulatory leverage over AI-driven private-sector changes.",
+      "biggest_gap": "Concrete personal technology familiarity and any positive local adaptation steps.",
+      "follow_up": "What municipal technology uses, if any, would still be acceptable under a zero-AI platform, and how would the town respond if peer municipalities adopt tools that lower costs?",
+      "confidence": "medium — trailing truncation possible; visible text readable.",
+      "narration": "Carruthers warns that AI reliance is alarming for aviation and airport workforces, advocates a zero-AI platform for candidates, notes limited municipal regulatory power, and describes unemployment as a slippery slope stressing businesses and the economy.",
+      "narration_word_count": 35,
+      "narration_within_requested_length": true,
+      "criterion_details": [
+        "| 1 Answers | 2 | 10.00 | “My platform is zero based AI or Chat GPU.” / workforce and unemployment sections | Covers future concerns and funding stress; personal technology use largely unaddressed beyond campaign stance. |",
+        "| 2 Future | 2 | 10.00 | “It’s just a slippery slope to the ruining of our economy.” | Strong caution with some upside noted; treats large-scale job loss and economic ruin as relatively direct outcomes without distinguishing technologies or time horizons. |",
+        "| 3 Preparedness | 2 | 7.50 | “Having just retired from the aviation community” | Aviation background referenced; limited evidence of ongoing technical learning or municipal technology engagement. |",
+        "| 4 Practical | 1 | 3.75 | “The municipalities do not have much say in regulating AI” | Minimal local actions proposed beyond limited spending when unemployment rises. |",
+        "| 5 Jobs/funding | 2 | 10.00 | “This puts stress on all the citizens and businesses. Limited spending is needed when unemployed” | Addresses downstream retail and tax-base stress; assumes broad private-sector reductions. |",
+        "| 6 Blind spots | 2 | 5.00 | Mentions medical possibilities | Notes some benefits; little on risks of a zero-AI municipal stance or transition supports. |"
+      ],
+      "rubric_violations": [],
+      "score_status": "arithmetic and level format checked"
+    },
+    {
+      "candidate": "Mike Albano",
+      "levels": [
+        3.0,
+        3.0,
+        3.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "points": [
+        15.0,
+        15.0,
+        11.25,
+        7.5,
+        10.0,
+        2.5
+      ],
+      "total": 61.25,
+      "strongest_point": "Clear statement of current technology use on council and commitment to continued learning.",
+      "biggest_gap": "How the town would handle revenue or demand shifts if private-sector employment contracts.",
+      "follow_up": "What recent council technology investment has shown measurable service or cost results, and how would failure of expected gains be handled?",
+      "confidence": "medium — possible trailing truncation.",
+      "narration": "Albano reports long-term technology use in work and on council, argues for responsible adoption where it improves costs and services, and cites the Industrial Revolution as evidence that disruption is accompanied by new opportunities.",
+      "narration_word_count": 34,
+      "narration_within_requested_length": false,
+      "criterion_details": [
+        "| 1 Answers | 3 | 15.00 | “I have been using technology… I’m using technology right now” / Industrial Revolution section | Covers personal use and adaptation; funding/jobs addressed mainly via historical analogy. |",
+        "| 2 Future | 3 | 15.00 | “we need to adopt the changes while using them responsibly and where they provide real value” | Reasonable short-term stance; analogy used without strong distinction of current generative AI differences. |",
+        "| 3 Preparedness | 3 | 11.25 | “throughout my working career and during my time on Council” | Demonstrated ongoing use and learning attitude. |",
+        "| 4 Practical | 2 | 7.50 | “We should invest in technology when it can reduce administrative costs, improve productivity and improve services.” | Direction given; little on evaluation, timing, or specific next steps. |",
+        "| 5 Jobs/funding | 2 | 10.00 | “While technology did change the workforce, it also created new opportunities” | Historical pattern cited; limited reasoning on municipal revenues or service demand. |",
+        "| 6 Blind spots | 1 | 2.50 | “using them responsibly” | Minimal safeguards or failure modes named. |"
+      ],
+      "rubric_violations": [],
+      "score_status": "arithmetic and level format checked"
+    },
+    {
+      "candidate": "Jason Brass",
+      "levels": [
+        3.0,
+        3.5,
+        2.0,
+        4.0,
+        3.0,
+        2.0
+      ],
+      "points": [
+        15.0,
+        17.5,
+        7.5,
+        15.0,
+        15.0,
+        5.0
+      ],
+      "total": 75.0,
+      "strongest_point": "Small-scale testing with explicit measurable benefits and clear costs, tied to staff knowledge.",
+      "biggest_gap": "Personal technology use and familiarity beyond mayoral role.",
+      "follow_up": "Which existing municipal processes would be the first candidates for a small-scale technology pilot, and what metrics would trigger continuation or stop?",
+      "confidence": "medium — possible trailing truncation.",
+      "narration": "Brass proposes exploring technology for efficiencies in paperwork, purchasing, scheduling and maintenance through small-scale tests with measurable benefits and costs, while stressing spending scrutiny and local economic strength if household incomes face pressure.",
+      "narration_word_count": 33,
+      "narration_within_requested_length": false,
+      "criterion_details": [
+        "| 1 Answers | 3 | 15.00 | Funding paragraph + technology exploration | Covers adaptation and funding; personal technology familiarity not detailed. |",
+        "| 2 Future | 3.5 → 17.50 | “AI, robotics, 3D printing and quantum computing have different potential uses… test practical applications on a small scale” | Distinguishes technologies, emphasizes testing and limits of technology alone. |",
+        "| 3 Preparedness | 2 | 7.50 | “exploring with the staff who understand our services best” | Relies on staff expertise; personal technical depth not shown. |",
+        "| 4 Practical | 4 | 15.00 | “test practical applications on a small scale, with measurable benefits and clear costs” | Feasible municipal steps, evaluation, and partnership framing. |",
+        "| 5 Jobs/funding | 3 | 15.00 | “If employment and household incomes come under pressure, we cannot simply assume taxpayers can absorb ever-increasing costs.” | Links income pressure to tax capacity; proposes scrutiny and attraction of careers. |",
+        "| 6 Blind spots | 2 | 5.00 | “clear costs” | Cost awareness present; privacy, error, or access safeguards not named. |"
+      ],
+      "rubric_violations": [
+        {
+          "criterion": 2,
+          "level": 3.5
+        }
+      ],
+      "score_status": "non-integer level; correction needed"
+    },
+    {
+      "candidate": "Alex Hilson",
+      "levels": [
+        4.0,
+        3.0,
+        4.0,
+        3.0,
+        2.0,
+        1.0
+      ],
+      "points": [
+        20.0,
+        15.0,
+        15.0,
+        11.25,
+        10.0,
+        2.5
+      ],
+      "total": 73.75,
+      "strongest_point": "Concrete references to asset-management planning, Copilot, library 3D printing, and regional traffic technology.",
+      "biggest_gap": "How the town would protect service levels or revenues if private-sector job losses materialize faster than efficiencies.",
+      "follow_up": "What measurable results has the Copilot rollout or library 3D printing produced so far, and how would the town evaluate further expansion?",
+      "confidence": "high — full visible text clear.",
+      "narration": "Hilson reports typical adult technology familiarity plus conference and board experience, cites town asset management, Copilot, library 3D printing and regional adaptive signals, and expects society to navigate automation efficiencies while people still need livelihoods.",
+      "narration_word_count": 35,
+      "narration_within_requested_length": true,
+      "criterion_details": [
+        "| 1 Answers | 4 | 20.00 | Personal use + “To your question about funding the public sector…” | Addresses all three resident questions with concrete local examples. |",
+        "| 2 Future | 3 | 15.00 | “we are really only at the start of the next technological revolution… navigate those changes with the rest of society” | Realistic uncertainty and historical parallel; “nearly endless” possibilities overstated. |",
+        "| 3 Preparedness | 4 | 15.00 | “I attended a session on using AI and computer modelling… our library (where I have served on their board)” | Specific learning, board service, and current municipal/regional examples shown. |",
+        "| 4 Practical | 3 | 11.25 | Supports existing asset management, Copilot, library 3D, regional signals; “continue to monitor… be creative” | Anchors in current practice; next steps more monitoring than new accountability measures. |",
+        "| 5 Jobs/funding | 2 | 10.00 | “We need to use the tools available to us and benefit from those efficiencies. People will still need jobs…” | Acknowledges need for livelihoods; limited local revenue or demand analysis. |",
+        "| 6 Blind spots | 1 | 2.50 | not addressed in detail | Safeguards, exclusion, or savings shortfalls largely absent. |"
+      ],
+      "rubric_violations": [],
+      "score_status": "arithmetic and level format checked"
+    },
+    {
+      "candidate": "Hillary Spurr",
+      "levels": [
+        3.0,
+        3.0,
+        2.0,
+        2.0,
+        3.0,
+        2.0
+      ],
+      "points": [
+        15.0,
+        15.0,
+        7.5,
+        7.5,
+        15.0,
+        5.0
+      ],
+      "total": 65.0,
+      "strongest_point": "Emphasis on essential roles whose hands-on judgment is difficult to replace and the need to prepare youth who grow up with AI.",
+      "biggest_gap": "Personal technology familiarity and concrete municipal adaptation or funding mechanisms.",
+      "follow_up": "How should the town balance investment in hard-to-replace essential roles with possible administrative efficiencies, and what funding sources would sustain both?",
+      "confidence": "medium — possible trailing truncation.",
+      "narration": "Spurr notes rapid AI advance and the need to stay adaptable, highlights skilled-trades opportunities and shortages, stresses continued investment in essential workers whose judgment is hard to replace, and calls for preparing the next generation.",
+      "narration_word_count": 35,
+      "narration_within_requested_length": true,
+      "criterion_details": [
+        "| 1 Answers | 3 | 15.00 | AI speed + essential workers + next generation | Covers adaptation and workforce; personal technology use and detailed funding less direct. |",
+        "| 2 Future | 3 | 15.00 | “we need to stay informed and adaptable… human judgment are difficult to replace with AI” | Balanced view of replacement limits and preparation needs. |",
+        "| 3 Preparedness | 2 | 7.50 | “I see this first hand every day” | Observational awareness shown; technical or municipal technology experience not detailed. |",
+        "| 4 Practical | 2 | 7.50 | “We must continue investing in firefighters, police officers, paramedics…” | Direction to protect essential roles; limited new technology steps or evaluation. |",
+        "| 5 Jobs/funding | 3 | 15.00 | Skilled-trades shortage + essential-worker investment | Focuses on hard-to-automate roles and continued investment; revenue side lighter. |",
+        "| 6 Blind spots | 2 | 5.00 | “ensuring we continue to value the people, skills and essential services” | Human-value safeguard present; other risks (privacy, vendor lock-in) not named. |"
+      ],
+      "rubric_violations": [],
+      "score_status": "arithmetic and level format checked"
+    },
+    {
+      "candidate": "Anthony Galati",
+      "levels": [
+        3.0,
+        2.0,
+        2.0,
+        1.0,
+        3.0,
+        2.0
+      ],
+      "points": [
+        15.0,
+        10.0,
+        7.5,
+        3.75,
+        15.0,
+        5.0
+      ],
+      "total": 56.25,
+      "strongest_point": "Explicit alternative of reduced hours at maintained pay rather than layoffs, grounded in a historical productivity precedent.",
+      "biggest_gap": "How a municipality would adapt its own operations or fund services under the proposed efficiency model.",
+      "follow_up": "How would a municipal employer implement or advocate reduced hours at full pay while maintaining service levels and balanced budgets?",
+      "confidence": "high — full visible text clear.",
+      "narration": "Galati states he does not use AI but recognizes limited efficiency uses, rejects exclusive reliance for documents, and suggests efficiency should enable reduced hours at full pay, citing Ford’s five-day week as a precedent for considering a four-day week.",
+      "narration_word_count": 39,
+      "narration_within_requested_length": true,
+      "criterion_details": [
+        "| 1 Answers | 3 | 15.00 | “I’m not a user of AI…” + Ford/4-day section | Covers personal use (non-use) and jobs response; government adaptation lighter. |",
+        "| 2 Future | 2 | 10.00 | “The super efficiency of AI would still allow them to turn a profit…” | Specific proposal; treats efficiency-to-shorter-week transfer as relatively direct. |",
+        "| 3 Preparedness | 2 | 7.50 | “I’m not a user of AI, perhaps to my detriment… it can be a useful tool if applied correctly” | Honest non-use with basic awareness of limits. |",
+        "| 4 Practical | 1 | 3.75 | not addressed in municipal terms | Little on town-level actions, evaluation, or partnerships. |",
+        "| 5 Jobs/funding | 3 | 15.00 | “instead they could cut their hours back substantially while still paying them their regular wages… 4 day work week” | Concrete alternative to layoffs; public-sector funding implications not developed. |",
+        "| 6 Blind spots | 2 | 5.00 | “it shouldn’t be used exclusively for writing reports” | Limit on exclusive use noted; other risks and municipal feasibility light. |"
+      ],
+      "rubric_violations": [],
+      "score_status": "arithmetic and level format checked"
+    }
+  ]
+}

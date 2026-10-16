@@ -1,0 +1,183 @@
+{
+  "reviewer": "Codex",
+  "model": "inherited configured model; exact identifier not exposed",
+  "rubric_version": "v2",
+  "date": "2026-10-15",
+  "scores": [
+    {
+      "candidate": "Shanna Maltby",
+      "levels": [
+        4,
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "points": [
+        20,
+        20,
+        11.25,
+        15,
+        15,
+        10
+      ],
+      "total": 91.25,
+      "strongest_point": "A connected decision process: test small applications, check outputs, measure results and revisit commitments before spending heavily.",
+      "biggest_gap": "How employment-related financial pressure would translate into a concrete municipal budget response, including which services and worker supports would be protected if savings do not materialize.",
+      "follow_up": "Which first municipal pilot would you advocate, and what full-cost measure and public review would decide whether to expand or stop it?",
+      "confidence": "high",
+      "narration": "Maltby proposes small technology trials, regular reviews, human checks and access for residents uncomfortable online. She connects employment pressures to affordability and service demand, while proposing skills partnerships and financial scenarios. The reply leaves specific measures, responsibilities and worker transition arrangements unresolved."
+    },
+    {
+      "candidate": "Kevin Carruthers",
+      "levels": [
+        3,
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "points": [
+        15,
+        10,
+        7.5,
+        3.75,
+        10,
+        2.5
+      ],
+      "total": 48.75,
+      "strongest_point": "Recognizing that employment losses can affect other businesses through reduced household spending, rather than treating workplace automation as an isolated employer decision.",
+      "biggest_gap": "What the Town would actually do to keep public programs and employment funded under a plausible displacement scenario.",
+      "follow_up": "What specific action would you ask Halton Hills to take during the next term if local employers begin reducing staff, and how would that action be funded?",
+      "confidence": "medium",
+      "narration": "Carruthers raises workforce concerns from an aviation perspective and recognizes possible medical benefits. He links unemployment to weaker retail spending and further layoffs. His reply offers limited municipal action, while the airport example and sweeping economic conclusion need stronger support and qualification."
+    },
+    {
+      "candidate": "Mike Albano",
+      "levels": [
+        3,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "points": [
+        15,
+        10,
+        7.5,
+        7.5,
+        5,
+        2.5
+      ],
+      "total": 47.5,
+      "strongest_point": "Making investment conditional on improved costs, productivity and services, rather than adopting technology simply because it is available.",
+      "biggest_gap": "How the Town would manage the interval between possible job displacement and new opportunities while continuing to fund services.",
+      "follow_up": "What first municipal application would you evaluate, and what evidence would show that its net savings and service benefits justify implementation?",
+      "confidence": "medium",
+      "narration": "Albano supports adopting technology when it improves municipal costs, productivity and services, and presents continued learning as necessary. His historical comparison suggests new opportunities can emerge. The reply leaves employment transitions, public revenue pressures and practical safeguards largely unexplained."
+    },
+    {
+      "candidate": "Jason Brass",
+      "levels": [
+        2,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "points": [
+        10,
+        15,
+        11.25,
+        11.25,
+        15,
+        5
+      ],
+      "total": 67.5,
+      "strongest_point": "Translating technology adoption into concrete municipal questions that staff can test against measurable benefits and costs.",
+      "biggest_gap": "His own familiarity with, and personal use of, the technologies being discussed.",
+      "follow_up": "Which technology have you personally used or assessed, and how would that experience inform the first municipal pilot you would champion?",
+      "confidence": "high",
+      "narration": "Brass identifies specific municipal efficiency opportunities and proposes small trials with staff, measurable benefits and clear costs. He recognizes that technology cannot solve every budget problem. The reply leaves personal familiarity, public reporting and protections against errors or exclusion unclear."
+    },
+    {
+      "candidate": "Alex Hilson",
+      "levels": [
+        3,
+        2,
+        3,
+        2,
+        1,
+        1
+      ],
+      "points": [
+        15,
+        10,
+        11.25,
+        7.5,
+        5,
+        2.5
+      ],
+      "total": 51.25,
+      "strongest_point": "Specific local examples make the adaptation discussion concrete and show awareness that relevant activity spans different public institutions.",
+      "biggest_gap": "How public services would remain funded if employment pressures arrive sooner than useful efficiency gains or new livelihoods.",
+      "follow_up": "What measured net benefit from one of these municipal applications would guide a next-term investment decision, and what would you do if the benefit falls short?",
+      "confidence": "medium",
+      "narration": "Hilson supplies several local technology examples and describes learning through municipal and library involvement. He supports monitoring opportunities and using efficiency gains. His response gives less detail on employment transitions, public funding mechanisms and safeguards, while several implementation and savings claims remain unverified."
+    },
+    {
+      "candidate": "Hillary Spurr",
+      "levels": [
+        2,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "points": [
+        10,
+        10,
+        7.5,
+        3.75,
+        10,
+        5
+      ],
+      "total": 46.25,
+      "strongest_point": "Keeping human judgment and essential service capacity in view when assessing technological efficiency and employment choices.",
+      "biggest_gap": "How the public sector would pay for the continued investment she advocates if household and business finances weaken.",
+      "follow_up": "What specific measure could Halton Hills fund or deliver next term to help residents whose jobs change, and how would you pay for and evaluate it?",
+      "confidence": "medium",
+      "narration": "Spurr emphasizes skilled trades, essential services and human judgment as technology changes work. She also supports preparing young people to use AI. The reply recognizes workforce concerns, but leaves her own technology familiarity, concrete municipal steps and the funding question insufficiently developed."
+    },
+    {
+      "candidate": "Anthony Galati",
+      "levels": [
+        2,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "points": [
+        10,
+        10,
+        7.5,
+        3.75,
+        10,
+        5
+      ],
+      "total": 46.25,
+      "strongest_point": "Explicitly considering how workers could share productivity gains through more time off while preserving income.",
+      "biggest_gap": "How this employer-focused proposal would let the municipality continue funding its own staff and programs.",
+      "follow_up": "Would you propose a Town workplace pilot or an employer partnership, and what evidence would show shorter hours can preserve pay, service coverage and the full budget?",
+      "confidence": "medium",
+      "narration": "Galati favors using AI with human involvement and sharing productivity gains through shorter hours at unchanged wages. His proposal addresses workers’ wellbeing, but assumes gains can sustain pay and profits. The reply needs a feasible local role and a direct public funding explanation."
+    }
+  ]
+}
